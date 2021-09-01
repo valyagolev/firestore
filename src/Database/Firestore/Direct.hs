@@ -172,7 +172,7 @@ parseValue :: FireStore.Value -> Value
 parseValue v =
   fromMaybe
     -- (Unknown $ Text.pack $ show v)
-    Null -- (it's a bug in gogol-firestore currently, apparently... perhaps only in the maps)
+    Null -- (it's a bug in gogol-firestore currently, apparently... https://github.com/brendanhay/gogol/issues/170)
     $ msum
       [ liftA2 GeoPoint (join $ v ^? (FireStore.vGeoPointValue . _Just . FireStore.llLatitude)) (join $ v ^? (FireStore.vGeoPointValue . _Just . FireStore.llLongitude)),
         Bytes <$> v ^. FireStore.vBytesValue,

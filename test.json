@@ -1,6 +1,6 @@
 [
     {
-        "updateTime": "2021-09-01T19:00:45.770103Z",
+        "updateTime": "2021-09-01T20:00:48.828366Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/apenwarrcalogrssphp",
         "createTime": "2021-05-17T04:58:52.068481Z",
         "fields": {
@@ -42,12 +42,12 @@
                 }
             },
             "url": "https://apenwarr.ca/log/rss.php",
-            "last_update": "2021-09-01T19:00:45.646816Z",
+            "last_update": "2021-09-01T20:00:48.717922Z",
             "title": "apenwarr"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:46.23673Z",
+        "updateTime": "2021-09-01T20:00:49.396942Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/applieddivinitystudiescomatomxml",
         "createTime": "2021-05-17T08:55:49.701489Z",
         "fields": {
@@ -249,12 +249,12 @@
                 }
             },
             "url": "https://applieddivinitystudies.com/atom.xml",
-            "last_update": "2021-09-01T19:00:46.071578Z",
+            "last_update": "2021-09-01T20:00:49.160203Z",
             "title": "Applied Divinity Studies"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:46.884758Z",
+        "updateTime": "2021-09-01T20:00:50.094781Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/bloggreggmancomblogfeed",
         "createTime": "2021-07-23T06:53:57.262742Z",
         "fields": {
@@ -361,12 +361,12 @@
                 }
             },
             "url": "https://blog.greggman.com/blog/feed/",
-            "last_update": "2021-09-01T19:00:46.767137Z",
+            "last_update": "2021-09-01T20:00:49.956302Z",
             "title": "blog.greggman.com"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:47.772544Z",
+        "updateTime": "2021-09-01T20:00:51.008825Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/blogsigfpecomfeedspostsdefault",
         "createTime": "2021-05-17T04:54:41.960577Z",
         "fields": {
@@ -498,12 +498,12 @@
                 }
             },
             "url": "http://blog.sigfpe.com/feeds/posts/default",
-            "last_update": "2021-09-01T19:00:47.64232Z",
+            "last_update": "2021-09-01T20:00:50.863717Z",
             "title": "A Neighborhood of Infinity"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:48.080699Z",
+        "updateTime": "2021-09-01T20:00:51.522275Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/blogsumtypeofwaycomatomxml",
         "createTime": "2021-09-01T18:06:12.164817Z",
         "fields": {
@@ -535,12 +535,12 @@
                 }
             },
             "url": "https://blog.sumtypeofway.com/atom.xml",
-            "last_update": "2021-09-01T19:00:47.961983Z",
+            "last_update": "2021-09-01T20:00:51.196634Z",
             "title": "adventures in uncertainty"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:48.445869Z",
+        "updateTime": "2021-09-01T20:00:51.848147Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/blogtheacodesfeedxml",
         "createTime": "2021-05-18T21:31:11.53191Z",
         "fields": {
@@ -722,12 +722,12 @@
                 }
             },
             "url": "https://blog.thea.codes/feed.xml",
-            "last_update": "2021-09-01T19:00:48.291208Z",
+            "last_update": "2021-09-01T20:00:51.633547Z",
             "title": "blog.thea.codes"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:49.039884Z",
+        "updateTime": "2021-09-01T20:00:52.936995Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/blogtrailofbitscomfeed",
         "createTime": "2021-05-17T05:01:37.436456Z",
         "fields": {
@@ -784,12 +784,12 @@
                 }
             },
             "url": "https://blog.trailofbits.com/feed/",
-            "last_update": "2021-09-01T19:00:48.925796Z",
+            "last_update": "2021-09-01T20:00:52.815294Z",
             "title": "Trail of Bits Blog"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:50.301015Z",
+        "updateTime": "2021-09-01T20:00:54.259799Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/blogyossariannetfeedxml",
         "createTime": "2021-05-17T04:59:11.328338Z",
         "fields": {
@@ -861,12 +861,12 @@
                 }
             },
             "url": "https://blog.yossarian.net/feed.xml",
-            "last_update": "2021-09-01T19:00:50.16627Z",
+            "last_update": "2021-09-01T20:00:54.127517Z",
             "title": "ENOSUCHBLOG"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:54.606443Z",
+        "updateTime": "2021-09-01T20:00:58.638858Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/brookercozablogrssxml",
         "createTime": "2021-09-01T15:37:17.1764Z",
         "fields": {
@@ -1243,12 +1243,12 @@
                 }
             },
             "url": "https://brooker.co.za/blog/rss.xml",
-            "last_update": "2021-09-01T19:00:54.35836Z",
+            "last_update": "2021-09-01T20:00:58.370224Z",
             "title": "Marc Brooker's Blog"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:55.01573Z",
+        "updateTime": "2021-09-01T20:00:59.023694Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/feedsakkartiknamekartiksscrapbook",
         "createTime": "2021-08-22T10:52:53.644539Z",
         "fields": {
@@ -1305,12 +1305,12 @@
                 }
             },
             "url": "http://feeds.akkartik.name/kartiks-scrapbook",
-            "last_update": "2021-09-01T19:00:54.854879Z",
+            "last_update": "2021-09-01T20:00:58.905651Z",
             "title": "Kartik Agaram"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:55.521476Z",
+        "updateTime": "2021-09-01T20:00:59.530943Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/feedsfeedburnercomnudnik",
         "createTime": "2021-05-17T05:01:28.476335Z",
         "fields": {
@@ -1397,12 +1397,12 @@
                 }
             },
             "url": "http://feeds.feedburner.com/nudnik",
-            "last_update": "2021-09-01T19:00:55.190812Z",
+            "last_update": "2021-09-01T20:00:59.203565Z",
             "title": "Spectator.ru  /"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:56.476324Z",
+        "updateTime": "2021-09-01T20:01:00.475607Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/gamesgreggmancomgamefeed",
         "createTime": "2021-07-23T06:48:37.108001Z",
         "fields": {
@@ -1509,12 +1509,12 @@
                 }
             },
             "url": "https://games.greggman.com/game/feed/",
-            "last_update": "2021-09-01T19:00:56.355038Z",
+            "last_update": "2021-09-01T20:01:00.361926Z",
             "title": "games.greggman.com"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:59.330188Z",
+        "updateTime": "2021-09-01T20:01:03.485026Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/golemphutexaseducategoryatom10xml",
         "createTime": "2021-08-20T13:11:03.153142Z",
         "fields": {
@@ -1606,12 +1606,12 @@
                 }
             },
             "url": "https://golem.ph.utexas.edu/category/atom10.xml",
-            "last_update": "2021-09-01T19:00:59.171802Z",
+            "last_update": "2021-09-01T20:01:03.366017Z",
             "title": "The n-Category Café"
         }
     },
     {
-        "updateTime": "2021-09-01T19:00:59.705355Z",
+        "updateTime": "2021-09-01T20:06:06.755973Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/haskellweeklynewsnewsletteratom",
         "createTime": "2021-05-17T04:59:33.465257Z",
         "fields": {
@@ -1758,12 +1758,13 @@
                 }
             },
             "url": "https://haskellweekly.news/newsletter.atom",
-            "last_update": "2021-09-01T19:00:59.557606Z",
+            "test": null,
+            "last_update": "2021-09-01T20:01:03.737667Z",
             "title": "Haskell Weekly"
         }
     },
     {
-        "updateTime": "2021-09-01T19:01:00.003638Z",
+        "updateTime": "2021-09-01T20:01:04.191843Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/hrishioagithubiofeedxml",
         "createTime": "2021-08-22T17:54:04.343715Z",
         "fields": {
@@ -1820,12 +1821,12 @@
                 }
             },
             "url": "https://hrishioa.github.io/feed.xml",
-            "last_update": "2021-09-01T19:00:59.897785Z",
+            "last_update": "2021-09-01T20:01:04.093827Z",
             "title": "Hrishi Olickel"
         }
     },
     {
-        "updateTime": "2021-09-01T19:01:00.477744Z",
+        "updateTime": "2021-09-01T20:01:04.67232Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/lateralthinkingtechnologywordpresscomfeed",
         "createTime": "2021-07-24T15:01:35.522897Z",
         "fields": {
@@ -1892,12 +1893,12 @@
                 }
             },
             "url": "https://lateralthinkingtechnology.wordpress.com/feed/",
-            "last_update": "2021-09-01T19:01:00.357043Z",
+            "last_update": "2021-09-01T20:01:04.574621Z",
             "title": "Video City"
         }
     },
     {
-        "updateTime": "2021-09-01T19:01:00.779089Z",
+        "updateTime": "2021-09-01T20:01:04.997381Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/mathandrejcomfeedxml",
         "createTime": "2021-05-17T05:00:58.523535Z",
         "fields": {
@@ -1964,12 +1965,12 @@
                 }
             },
             "url": "http://math.andrej.com/feed.xml",
-            "last_update": "2021-09-01T19:01:00.67623Z",
+            "last_update": "2021-09-01T20:01:04.87835Z",
             "title": "Mathematics and Computation"
         }
     },
     {
-        "updateTime": "2021-09-01T19:01:01.087498Z",
+        "updateTime": "2021-09-01T20:01:05.323695Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/nadiaeghbalcomfeedxml",
         "createTime": "2021-05-17T09:53:53.329449Z",
         "fields": {
@@ -2031,12 +2032,12 @@
                 }
             },
             "url": "https://nadiaeghbal.com/feed.xml",
-            "last_update": "2021-09-01T19:01:00.982239Z",
+            "last_update": "2021-09-01T20:01:05.233447Z",
             "title": "Nadia Eghbal"
         }
     },
     {
-        "updateTime": "2021-09-01T19:01:01.519875Z",
+        "updateTime": "2021-09-01T20:01:05.743761Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/okmijorgftprssxml",
         "createTime": "2021-05-17T05:01:48.631591Z",
         "fields": {
@@ -2128,12 +2129,12 @@
                 }
             },
             "url": "http://okmij.org/ftp/rss.xml",
-            "last_update": "2021-09-01T19:01:01.39458Z",
+            "last_update": "2021-09-01T20:01:05.621282Z",
             "title": "okmij.org"
         }
     },
     {
-        "updateTime": "2021-09-01T19:01:03.291017Z",
+        "updateTime": "2021-09-01T20:01:07.556329Z",
         "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/rachelbythebaycomwatomxml",
         "createTime": "2021-08-18T06:44:13.211601Z",
         "fields": {
@@ -2665,8 +2666,1716 @@
                 }
             },
             "url": "https://rachelbythebay.com/w/atom.xml",
-            "last_update": "2021-09-01T19:01:03.043462Z",
+            "last_update": "2021-09-01T20:01:07.30264Z",
             "title": "Writing - rachelbythebay"
+        }
+    },
+    {
+        "updateTime": "2021-09-01T20:01:08.066914Z",
+        "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/radarspacebarorgfaweblogrss1",
+        "createTime": "2021-08-02T17:53:43.338866Z",
+        "fields": {
+            "entries": {
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1184": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1184",
+                    "published": "Mon, 31 Aug 2020 23:47:43 -0400",
+                    "title": "Still keeping up the no-pants streak"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1196": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1196",
+                    "published": "Tue, 31 Aug 2021 22:57:37 -0400",
+                    "title": "Mostly, vaxcation"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1182": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1182",
+                    "published": "Tue, 30 Jun 2020 23:59:51 -0400",
+                    "title": "Happy Junely"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1185": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1185",
+                    "published": "Wed, 30 Sep 2020 22:23:08 -0400",
+                    "title": "Happy birthday to me #41"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1191": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1191",
+                    "published": "Wed, 31 Mar 2021 22:48:31 -0400",
+                    "title": "Oh! WVPA"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1188": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1188",
+                    "published": "Thu, 31 Dec 2020 23:07:29 -0500",
+                    "title": "Happy -2020 and +2021!"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1183": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1183",
+                    "published": "Fri, 31 Jul 2020 23:53:20 -0400",
+                    "title": "Happy Juleny"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1186": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1186",
+                    "published": "Sat, 31 Oct 2020 23:24:09 -0400",
+                    "title": "Happy halloween!"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1190": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1190",
+                    "published": "Sun, 28 Feb 2021 23:23:35 -0500",
+                    "title": "IMO Iron City, a crappy local brewery, should have a beer called Fe Brew Ary (feel free to improve this pun in comments)"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1189": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1189",
+                    "published": "Sun, 31 Jan 2021 22:21:18 -0500",
+                    "title": "Aesthetic images, Skidder 2021, and c."
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1195": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1195",
+                    "published": "Sat, 31 Jul 2021 22:20:36 -0400",
+                    "title": "Summer programming 2021"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1187": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1187",
+                    "published": "Mon, 30 Nov 2020 21:07:14 -0500",
+                    "title": "November Rain"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1193": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1193",
+                    "published": "Mon, 31 May 2021 23:18:01 -0400",
+                    "title": "Summer!"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1194": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1194",
+                    "published": "Wed, 30 Jun 2021 18:36:38 -0400",
+                    "title": "22:33:44"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1192": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1192",
+                    "published": "Fri, 30 Apr 2021 18:25:46 -0400",
+                    "title": "SIGBOVIK 2021 and other things of April"
+                },
+                "http://radar.spacebar.org/f/a/weblog/comment/1/1181": {
+                    "link": "http://radar.spacebar.org/f/a/weblog/comment/1/1181",
+                    "published": "Sun, 31 May 2020 22:48:11 -0400",
+                    "title": "Have not worn pants in like 50 days now"
+                }
+            },
+            "url": "http://radar.spacebar.org/f/a/weblog/rss/1",
+            "last_update": "2021-09-01T20:01:07.955265Z",
+            "title": "Tom 7 Radar"
+        }
+    },
+    {
+        "updateTime": "2021-09-01T20:01:08.495421Z",
+        "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/raphlinusgithubiofeedxml",
+        "createTime": "2021-05-17T05:01:45.081247Z",
+        "fields": {
+            "entries": {
+                "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021": {
+                    "link": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html",
+                    "published": "2020-09-28T15:45:42+00:00",
+                    "title": "Rust 2021: GUI"
+                },
+                "https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited": {
+                    "link": "https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html",
+                    "published": "2021-05-13T14:52:42+00:00",
+                    "title": "The stack monoid revisited"
+                },
+                "https://raphlinus.github.io/text/2020/10/26/text-layout": {
+                    "link": "https://raphlinus.github.io/text/2020/10/26/text-layout.html",
+                    "published": "2020-10-26T14:09:42+00:00",
+                    "title": "Text layout is a loose hierarchy of segmentation"
+                },
+                "https://raphlinus.github.io/curves/2021/03/11/bezier-fitting": {
+                    "link": "https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html",
+                    "published": "2021-03-11T20:14:42+00:00",
+                    "title": "Fitting cubic Bézier curves"
+                },
+                "https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil": {
+                    "link": "https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html",
+                    "published": "2020-09-13T20:42:42+00:00",
+                    "title": "The compositor is evil"
+                },
+                "https://raphlinus.github.io/gpu/2021/04/28/slow-shader": {
+                    "link": "https://raphlinus.github.io/gpu/2021/04/28/slow-shader.html",
+                    "published": "2021-04-28T14:53:42+00:00",
+                    "title": "The case of the curiously slow shader"
+                },
+                "https://raphlinus.github.io/color/2021/01/18/oklab-critique": {
+                    "link": "https://raphlinus.github.io/color/2021/01/18/oklab-critique.html",
+                    "published": "2021-01-18T21:39:42+00:00",
+                    "title": "An interactive review of Oklab"
+                },
+                "https://raphlinus.github.io/personal/2020/12/16/an-old-new-adventure": {
+                    "link": "https://raphlinus.github.io/personal/2020/12/16/an-old-new-adventure.html",
+                    "published": "2020-12-16T16:28:42+00:00",
+                    "title": "An Old New Adventure"
+                },
+                "https://raphlinus.github.io/curves/2021/02/19/parallel-curves": {
+                    "link": "https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html",
+                    "published": "2021-02-19T15:13:42+00:00",
+                    "title": "Cleaner parallel curves with Euler spirals"
+                },
+                "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui": {
+                    "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html",
+                    "published": "2020-09-25T14:44:42+00:00",
+                    "title": "Towards principled reactive UI"
+                }
+            },
+            "url": "https://raphlinus.github.io/feed.xml",
+            "last_update": "2021-09-01T20:01:08.401165Z",
+            "title": "Raph Levien’s blog"
+        }
+    },
+    {
+        "updateTime": "2021-09-01T20:01:10.682585Z",
+        "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/semanticorgfeed",
+        "createTime": "2021-05-24T23:18:30.019077Z",
+        "fields": {
+            "entries": {
+                "http://semantic.org/?p=151": {
+                    "link": "https://semantic.org/post/with-resource-puzzle/",
+                    "published": "Sun, 17 Dec 2017 06:13:34 +0000",
+                    "title": "With-Resource Puzzle"
+                },
+                "http://semantic.org/?p=254": {
+                    "link": "https://semantic.org/post/pinafore-talk-lambdaconf-2019/",
+                    "published": "Fri, 17 Apr 2020 23:18:00 +0000",
+                    "title": "Pinafore Talk, LambdaConf 2019"
+                },
+                "http://semantic.org/?p=411": {
+                    "link": "https://semantic.org/post/whole-haskell-use-of-gadts/",
+                    "published": "Mon, 02 Nov 2020 16:23:15 +0000",
+                    "title": "Whole Haskell Use of GADTs"
+                },
+                "http://semantic.org/?p=346": {
+                    "link": "https://semantic.org/post/pinafore-0-1/",
+                    "published": "Mon, 21 Sep 2020 19:28:51 +0000",
+                    "title": "Pinafore 0.1"
+                },
+                "http://semantic.org/?p=401": {
+                    "link": "https://semantic.org/post/whole-haskell-is-best-haskell/",
+                    "published": "Mon, 02 Nov 2020 16:19:38 +0000",
+                    "title": "Whole Haskell is Best Haskell"
+                },
+                "http://semantic.org/?p=443": {
+                    "link": "https://semantic.org/post/pinafore-0-2/",
+                    "published": "Mon, 21 Dec 2020 21:47:59 +0000",
+                    "title": "Pinafore 0.2"
+                },
+                "http://semantic.org/?p=163": {
+                    "link": "https://semantic.org/post/how-to-write-an-interpreter-for-a-lambda-calculus-based-language/",
+                    "published": "Wed, 20 Dec 2017 17:22:14 +0000",
+                    "title": "How To Write an Interpreter for a Lambda-Calculus-Based Language"
+                },
+                "http://semantic.org/?p=260": {
+                    "link": "https://semantic.org/post/forbidden-haskell-types/",
+                    "published": "Mon, 13 Jul 2020 18:40:13 +0000",
+                    "title": "Forbidden Haskell Types"
+                },
+                "https://semantic.org/?p=468": {
+                    "link": "https://semantic.org/post/pinafore-0-3/",
+                    "published": "Mon, 12 Apr 2021 00:36:52 +0000",
+                    "title": "Pinafore 0.3"
+                },
+                "http://semantic.org/?p=205": {
+                    "link": "https://semantic.org/post/empty-and-unit-types/",
+                    "published": "Wed, 12 Jun 2019 00:04:14 +0000",
+                    "title": "Empty and Unit Types"
+                }
+            },
+            "url": "https://semantic.org/feed/",
+            "last_update": "2021-09-01T20:01:10.600657Z",
+            "title": "Semantic Dreams"
+        }
+    },
+    {
+        "updateTime": "2021-09-01T20:01:11.738749Z",
+        "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/stratecherycomfeed",
+        "createTime": "2021-05-17T05:01:33.01412Z",
+        "fields": {
+            "entries": {
+                "https://stratechery.com/?p=5684": {
+                    "link": "https://stratechery.com/2021/sovereign-writers-and-substack/",
+                    "published": "Mon, 22 Mar 2021 14:46:26 +0000",
+                    "title": "Sovereign Writers and Substack"
+                },
+                "https://stratechery.com/?p=6742": {
+                    "link": "https://stratechery.com/2021/instagrams-evolution/",
+                    "published": "Wed, 07 Jul 2021 15:19:25 +0000",
+                    "title": "Instagram’s Evolution"
+                },
+                "https://stratechery.com/?p=6346": {
+                    "link": "https://stratechery.com/2021/cloudflare-on-the-edge/",
+                    "published": "Tue, 11 May 2021 17:01:42 +0000",
+                    "title": "Cloudflare on the Edge"
+                },
+                "https://stratechery.com/?p=5876": {
+                    "link": "https://stratechery.com/2021/cloudflare-on-the-edge/",
+                    "published": "Tue, 11 May 2021 17:01:56 +0000",
+                    "title": "Cloudflare on the Edge"
+                },
+                "https://stratechery.com/?p=6648": {
+                    "link": "https://stratechery.com/2021/pandemic-progress/",
+                    "published": "Mon, 21 Jun 2021 13:47:12 +0000",
+                    "title": "Pandemic Progress"
+                },
+                "https://stratechery.com/?p=5756": {
+                    "link": "https://stratechery.com/2021/non-fungible-taylor-swift/",
+                    "published": "Mon, 12 Apr 2021 14:01:55 +0000",
+                    "title": "Non-Fungible Taylor Swift"
+                },
+                "https://stratechery.com/?p=5649": {
+                    "link": "https://stratechery.com/2021/the-webs-missing-interoperability/",
+                    "published": "Tue, 02 Mar 2021 15:13:18 +0000",
+                    "title": "The Web’s Missing Interoperability"
+                },
+                "https://stratechery.com/?p=6683": {
+                    "link": "https://stratechery.com/2021/the-lightness-of-windows/",
+                    "published": "Mon, 28 Jun 2021 14:14:35 +0000",
+                    "title": "The Lightness of Windows"
+                },
+                "https://stratechery.com/?p=7378": {
+                    "link": "https://stratechery.com/2021/metaverses/",
+                    "published": "Tue, 03 Aug 2021 13:02:15 +0000",
+                    "title": "Metaverses"
+                },
+                "https://stratechery.com/?p=6234": {
+                    "link": "https://stratechery.com/2021/non-fungible-taylor-swift/",
+                    "published": "Mon, 12 Apr 2021 14:01:03 +0000",
+                    "title": "Non-Fungible Taylor Swift"
+                },
+                "https://stratechery.com/?p=6592": {
+                    "link": "https://stratechery.com/2021/the-cicilline-salvo/",
+                    "published": "Tue, 15 Jun 2021 11:54:20 +0000",
+                    "title": "The Cicilline Salvo"
+                },
+                "https://stratechery.com/?p=5671": {
+                    "link": "https://stratechery.com/2021/moderation-in-infrastructure/",
+                    "published": "Tue, 16 Mar 2021 13:34:52 +0000",
+                    "title": "Moderation in Infrastructure"
+                },
+                "https://stratechery.com/?p=5800": {
+                    "link": "https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/",
+                    "published": "Wed, 21 Apr 2021 14:44:43 +0000",
+                    "title": "Podcast Subscriptions vs. the App Store"
+                },
+                "https://stratechery.com/?p=6443": {
+                    "link": "https://stratechery.com/2021/passport/",
+                    "published": "Thu, 03 Jun 2021 18:36:17 +0000",
+                    "title": "Passport"
+                },
+                "https://stratechery.com/?p=6334": {
+                    "link": "https://stratechery.com/2021/market-making-on-the-internet/",
+                    "published": "Wed, 05 May 2021 13:58:49 +0000",
+                    "title": "Market-Making on the Internet"
+                },
+                "https://stratechery.com/?p=5930": {
+                    "link": "https://stratechery.com/2021/app-store-arguments/",
+                    "published": "Tue, 25 May 2021 16:14:58 +0000",
+                    "title": "App Store Arguments"
+                },
+                "https://stratechery.com/?p=5828": {
+                    "link": "https://stratechery.com/2021/spotifys-surprise/",
+                    "published": "Wed, 28 Apr 2021 13:19:27 +0000",
+                    "title": "Spotify’s Surprise"
+                },
+                "https://stratechery.com/?p=6357": {
+                    "link": "https://stratechery.com/2021/distribution-and-demand/",
+                    "published": "Tue, 18 May 2021 12:57:39 +0000",
+                    "title": "Distribution and Demand"
+                },
+                "https://stratechery.com/?p=5889": {
+                    "link": "https://stratechery.com/2021/distribution-and-demand/",
+                    "published": "Tue, 18 May 2021 12:57:29 +0000",
+                    "title": "Distribution and Demand"
+                },
+                "https://stratechery.com/?p=7535": {
+                    "link": "https://stratechery.com/2021/regulators-and-reality/",
+                    "published": "Wed, 01 Sep 2021 13:20:04 +0000",
+                    "title": "Regulators and Reality"
+                },
+                "https://stratechery.com/?p=7420": {
+                    "link": "https://stratechery.com/2021/apples-mistake/",
+                    "published": "Mon, 09 Aug 2021 15:31:49 +0000",
+                    "title": "Apple’s Mistake"
+                },
+                "https://stratechery.com/?p=5597": {
+                    "link": "https://stratechery.com/2021/clubhouses-inevitability/",
+                    "published": "Mon, 15 Feb 2021 15:54:45 +0000",
+                    "title": "Clubhouse’s Inevitability"
+                },
+                "https://stratechery.com/?p=5658": {
+                    "link": "https://stratechery.com/2021/the-roblox-microverse/",
+                    "published": "Tue, 09 Mar 2021 16:08:37 +0000",
+                    "title": "The Roblox Microverse"
+                },
+                "https://stratechery.com/?p=6154": {
+                    "link": "https://stratechery.com/2021/moderation-in-infrastructure/",
+                    "published": "Tue, 16 Mar 2021 13:34:22 +0000",
+                    "title": "Moderation in Infrastructure"
+                },
+                "https://stratechery.com/?p=5856": {
+                    "link": "https://stratechery.com/2021/market-making-on-the-internet/",
+                    "published": "Wed, 05 May 2021 13:58:27 +0000",
+                    "title": "Market-Making on the Internet"
+                },
+                "https://stratechery.com/?p=6401": {
+                    "link": "https://stratechery.com/2021/app-store-arguments/",
+                    "published": "Tue, 25 May 2021 16:14:19 +0000",
+                    "title": "App Store Arguments"
+                },
+                "https://stratechery.com/?p=6273": {
+                    "link": "https://stratechery.com/2021/podcast-subscriptions-vs-the-app-store/",
+                    "published": "Wed, 21 Apr 2021 14:44:25 +0000",
+                    "title": "Podcast Subscriptions vs. the App Store"
+                },
+                "https://stratechery.com/?p=6169": {
+                    "link": "https://stratechery.com/2021/sovereign-writers-and-substack/",
+                    "published": "Mon, 22 Mar 2021 14:46:50 +0000",
+                    "title": "Sovereign Writers and Substack"
+                },
+                "https://stratechery.com/?p=5954": {
+                    "link": "https://stratechery.com/2021/break-june-1-june-2/",
+                    "published": "Wed, 02 Jun 2021 11:51:30 +0000",
+                    "title": "Break: June 1–2, 2021"
+                },
+                "https://stratechery.com/?p=6311": {
+                    "link": "https://stratechery.com/2021/spotifys-surprise/",
+                    "published": "Wed, 28 Apr 2021 13:19:07 +0000",
+                    "title": "Spotify’s Surprise"
+                },
+                "https://stratechery.com/?p=6535": {
+                    "link": "https://stratechery.com/2021/integrated-apple-and-app-store-risk/",
+                    "published": "Tue, 08 Jun 2021 11:21:37 +0000",
+                    "title": "Integrated Apple and App Store Risk"
+                },
+                "https://stratechery.com/?p=6141": {
+                    "link": "https://stratechery.com/2021/the-roblox-microverse/",
+                    "published": "Tue, 09 Mar 2021 16:08:20 +0000",
+                    "title": "The Roblox Microverse"
+                }
+            },
+            "url": "https://stratechery.com/feed/",
+            "last_update": "2021-09-01T20:01:11.586927Z",
+            "title": "Stratechery by Ben Thompson"
+        }
+    },
+    {
+        "updateTime": "2021-09-01T20:01:11.994027Z",
+        "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/worldheycomjasonfeedatom",
+        "createTime": "2021-05-17T05:01:56.80906Z",
+        "fields": {
+            "entries": {
+                "tag:world.hey.com,2005:World::Post/9655": {
+                    "link": "https://world.hey.com/jason/pale-blue-dot-9afe8e3f",
+                    "published": "2021-04-17T19:26:31Z",
+                    "title": "Pale Blue Dot"
+                },
+                "tag:world.hey.com,2005:World::Post/13234": {
+                    "link": "https://world.hey.com/jason/a-static-business-is-a-healthy-business-c0c2961b",
+                    "published": "2021-06-23T18:26:15Z",
+                    "title": "A static business is a healthy business"
+                },
+                "tag:world.hey.com,2005:World::Post/14375": {
+                    "link": "https://world.hey.com/jason/heard-something-read-something-saw-something-6-b0f2d38b",
+                    "published": "2021-07-28T17:16:28Z",
+                    "title": "Heard Something, Read Something, Saw Something [#6]"
+                },
+                "tag:world.hey.com,2005:World::Post/13305": {
+                    "link": "https://world.hey.com/jason/heard-something-read-something-saw-something-5-dca8bb7f",
+                    "published": "2021-06-25T18:08:23Z",
+                    "title": "Heard Something, Read Something, Saw Something [#5]"
+                },
+                "tag:world.hey.com,2005:World::Post/8265": {
+                    "link": "https://world.hey.com/jason/four-letter-words-8c46ad97",
+                    "published": "2021-04-01T13:47:47Z",
+                    "title": "Four letter words"
+                },
+                "tag:world.hey.com,2005:World::Post/12635": {
+                    "link": "https://world.hey.com/jason/heard-something-read-something-saw-something-4-abb4e362",
+                    "published": "2021-06-10T19:07:22Z",
+                    "title": "Heard Something, Read Something, Saw Something [#4]"
+                },
+                "tag:world.hey.com,2005:World::Post/10277": {
+                    "link": "https://world.hey.com/jason/changes-at-basecamp-7f32afc5",
+                    "published": "2021-04-26T15:11:51Z",
+                    "title": "Changes at Basecamp"
+                },
+                "tag:world.hey.com,2005:World::Post/11795": {
+                    "link": "https://world.hey.com/jason/heard-something-read-something-saw-something-2-69599563",
+                    "published": "2021-05-23T22:02:12Z",
+                    "title": "Heard Something, Read Something, Saw Something [#2]"
+                },
+                "tag:world.hey.com,2005:World::Post/11046": {
+                    "link": "https://world.hey.com/jason/heard-something-read-something-saw-something-1-837a94dd",
+                    "published": "2021-05-09T15:08:17Z",
+                    "title": "Heard Something, Read Something, Saw Something [#1]"
+                },
+                "tag:world.hey.com,2005:World::Post/15079": {
+                    "link": "https://world.hey.com/jason/questions-i-ask-when-checking-references-454e5e8d",
+                    "published": "2021-08-23T20:20:27Z",
+                    "title": "Questions I ask when checking references"
+                },
+                "tag:world.hey.com,2005:World::Post/11479": {
+                    "link": "https://world.hey.com/jason/active-away-how-about-neither-ed70fd69",
+                    "published": "2021-05-19T19:28:53Z",
+                    "title": "Active? Away? How about neither."
+                },
+                "tag:world.hey.com,2005:World::Post/13976": {
+                    "link": "https://world.hey.com/jason/it-s-not-remote-if-you-have-to-go-to-the-office-f76dce6e",
+                    "published": "2021-07-14T18:43:52Z",
+                    "title": "It's not remote if you have to go to the office"
+                },
+                "tag:world.hey.com,2005:World::Post/12477": {
+                    "link": "https://world.hey.com/jason/listening-to-last-year-at-this-time-95a2d9fb",
+                    "published": "2021-06-07T18:45:54Z",
+                    "title": "Listening to last year, at this time"
+                },
+                "tag:world.hey.com,2005:World::Post/13397": {
+                    "link": "https://world.hey.com/jason/brands-and-rental-cars-843112a6",
+                    "published": "2021-06-28T18:48:24Z",
+                    "title": "Brands and rental cars"
+                },
+                "tag:world.hey.com,2005:World::Post/12160": {
+                    "link": "https://world.hey.com/jason/heard-something-read-something-saw-something-3-f8590cbf",
+                    "published": "2021-05-31T04:07:47Z",
+                    "title": "Heard Something, Read Something, Saw Something [#3]"
+                },
+                "tag:world.hey.com,2005:World::Post/8884": {
+                    "link": "https://world.hey.com/jason/why-be-an-entrepreneur-19b4e77c",
+                    "published": "2021-04-08T17:28:23Z",
+                    "title": "Why be an entrepreneur?"
+                },
+                "tag:world.hey.com,2005:World::Post/10379": {
+                    "link": "https://world.hey.com/jason/on-making-decisions-fb7adfbf",
+                    "published": "2021-04-27T17:37:14Z",
+                    "title": "On making decisions"
+                },
+                "tag:world.hey.com,2005:World::Post/12870": {
+                    "link": "https://world.hey.com/jason/hey-turns-1-happy-birthday-hey-ab6f3d2c",
+                    "published": "2021-06-16T17:02:51Z",
+                    "title": "HEY turns 1, Happy Birthday HEY!"
+                },
+                "tag:world.hey.com,2005:World::Post/10849": {
+                    "link": "https://world.hey.com/jason/an-update-303f2f99",
+                    "published": "2021-05-04T20:10:19Z",
+                    "title": "An Update"
+                },
+                "tag:world.hey.com,2005:World::Post/12277": {
+                    "link": "https://world.hey.com/jason/hiring-up-product-designer-d308b4d5",
+                    "published": "2021-06-02T18:24:52Z",
+                    "title": "Hiring up! Product designer?"
+                },
+                "tag:world.hey.com,2005:World::Post/12453": {
+                    "link": "https://world.hey.com/jason/hiring-future-perfects-2f4ebff3",
+                    "published": "2021-06-07T03:31:19Z",
+                    "title": "Hiring future perfects"
+                },
+                "tag:world.hey.com,2005:World::Post/8732": {
+                    "link": "https://world.hey.com/jason/how-much-is-basecamp-worth-i-don-t-know-and-i-don-t-care-dc5aef21",
+                    "published": "2021-04-06T22:02:34Z",
+                    "title": "How much is Basecamp worth? I don’t know and I don’t care."
+                },
+                "tag:world.hey.com,2005:World::Post/14946": {
+                    "link": "https://world.hey.com/jason/the-path-to-basecamp-4-7516ee5b",
+                    "published": "2021-08-18T17:32:02Z",
+                    "title": "The path to Basecamp 4"
+                },
+                "tag:world.hey.com,2005:World::Post/14920": {
+                    "link": "https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb",
+                    "published": "2021-08-17T19:26:14Z",
+                    "title": "The difference between time and attention"
+                },
+                "tag:world.hey.com,2005:World::Post/11892": {
+                    "link": "https://world.hey.com/jason/what-s-modern-0b42d561",
+                    "published": "2021-05-25T17:42:15Z",
+                    "title": "What's modern?"
+                },
+                "tag:world.hey.com,2005:World::Post/15163": {
+                    "link": "https://world.hey.com/jason/heard-something-read-something-saw-something-7-195a4e2b",
+                    "published": "2021-08-26T18:15:21Z",
+                    "title": "Heard Something, Read Something, Saw Something [#7]"
+                },
+                "tag:world.hey.com,2005:World::Post/9221": {
+                    "link": "https://world.hey.com/jason/staying-out-of-it-c6624e2d",
+                    "published": "2021-04-12T18:39:27Z",
+                    "title": "Staying Out of It"
+                },
+                "tag:world.hey.com,2005:World::Post/10114": {
+                    "link": "https://world.hey.com/jason/i-bought-a-sauna-30088f7d",
+                    "published": "2021-04-24T04:20:33Z",
+                    "title": "I bought a sauna"
+                },
+                "tag:world.hey.com,2005:World::Post/14294": {
+                    "link": "https://world.hey.com/jason/it-doesn-t-have-to-be-crazy-at-work-66b05283",
+                    "published": "2021-07-25T23:24:39Z",
+                    "title": "It Doesn't Have to Be Crazy at Work"
+                }
+            },
+            "url": "https://world.hey.com/jason/feed.atom",
+            "last_update": "2021-09-01T20:01:11.866139Z",
+            "title": "Jason Fried"
+        }
+    },
+    {
+        "updateTime": "2021-09-01T20:01:12.720394Z",
+        "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/writingkemitchellcomfeedxml",
+        "createTime": "2021-05-17T05:01:53.318477Z",
+        "fields": {
+            "entries": {
+                "https://writing.kemitchell.com/2021/07/02/DCO-Not-CLA.html": {
+                    "link": "https://writing.kemitchell.com/2021/07/02/DCO-Not-CLA.html",
+                    "published": "Fri, 02 Jul 2021 00:00:00 +0000",
+                    "title": "The Developer Certificate of Origin is Not a Contributor License Agreement"
+                },
+                "https://writing.kemitchell.com/2021/06/16/In-Praise-of-Cron.html": {
+                    "link": "https://writing.kemitchell.com/2021/06/16/In-Praise-of-Cron.html",
+                    "published": "Wed, 16 Jun 2021 00:00:00 +0000",
+                    "title": "In Praise of Cron"
+                },
+                "https://writing.kemitchell.com/2021/05/13/Efficient-Merit-Apocalypse.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/13/Efficient-Merit-Apocalypse.html",
+                    "published": "Thu, 13 May 2021 11:32:00 -0700",
+                    "title": "Efficient Merit Apocalypse"
+                },
+                "https://writing.kemitchell.com/2021/03/22/First-Rate-Intelligence.html": {
+                    "link": "https://writing.kemitchell.com/2021/03/22/First-Rate-Intelligence.html",
+                    "published": "Mon, 22 Mar 2021 10:35:00 -0700",
+                    "title": "First-Rate Intelligence"
+                },
+                "https://writing.kemitchell.com/2021/05/24/Drafting-Anxiety.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/24/Drafting-Anxiety.html",
+                    "published": "Mon, 24 May 2021 19:57:00 -0700",
+                    "title": "Drafter's Anxiety"
+                },
+                "https://writing.kemitchell.com/2021/06/08/Creative-Commons-2025-Strategy.html": {
+                    "link": "https://writing.kemitchell.com/2021/06/08/Creative-Commons-2025-Strategy.html",
+                    "published": "Tue, 08 Jun 2021 00:00:00 +0000",
+                    "title": "Creative Commons' 2021-2025 Strategy"
+                },
+                "https://writing.kemitchell.com/2021/05/25/Citation-Hustle.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/25/Citation-Hustle.html",
+                    "published": "Tue, 25 May 2021 18:23:00 +0000",
+                    "title": "Citation Hustle"
+                },
+                "https://writing.kemitchell.com/2021/04/23/Open-Gaming.html": {
+                    "link": "https://writing.kemitchell.com/2021/04/23/Open-Gaming.html",
+                    "published": "Fri, 23 Apr 2021 00:00:00 -0700",
+                    "title": "Open Gaming Deja Vu"
+                },
+                "https://writing.kemitchell.com/2021/06/15/Big-Time-1.0.0.html": {
+                    "link": "https://writing.kemitchell.com/2021/06/15/Big-Time-1.0.0.html",
+                    "published": "Tue, 15 Jun 2021 18:24:00 +0000",
+                    "title": "Big Time Public License 1.0.0"
+                },
+                "https://writing.kemitchell.com/2021/03/19/Budget-County-Law-Libraries.html": {
+                    "link": "https://writing.kemitchell.com/2021/03/19/Budget-County-Law-Libraries.html",
+                    "published": "Fri, 19 Mar 2021 00:00:00 -0700",
+                    "title": "Support Funding for Cali County Law Libraries"
+                },
+                "https://writing.kemitchell.com/2021/08/15/Upgrading-Debian-Bullseye.html": {
+                    "link": "https://writing.kemitchell.com/2021/08/15/Upgrading-Debian-Bullseye.html",
+                    "published": "Sun, 15 Aug 2021 20:54:00 +0000",
+                    "title": "Upgrading to Debian Bullseye"
+                },
+                "https://writing.kemitchell.com/2021/05/04/Days-of-Pain.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/04/Days-of-Pain.html",
+                    "published": "Tue, 04 May 2021 00:00:00 -0700",
+                    "title": "Days of Pain"
+                },
+                "https://writing.kemitchell.com/2021/08/25/Signature-Blocks-101.html": {
+                    "link": "https://writing.kemitchell.com/2021/08/25/Signature-Blocks-101.html",
+                    "published": "Wed, 25 Aug 2021 00:00:00 +0000",
+                    "title": "Signature Blocks 101"
+                },
+                "https://writing.kemitchell.com/2021/08/15/Hydrant-Meter-Fundraiser.html": {
+                    "link": "https://writing.kemitchell.com/2021/08/15/Hydrant-Meter-Fundraiser.html",
+                    "published": "Sun, 15 Aug 2021 22:35:00 +0000",
+                    "title": "Help Fund Water for the Homeless"
+                },
+                "https://writing.kemitchell.com/2021/06/05/Guestbook-NDA.html": {
+                    "link": "https://writing.kemitchell.com/2021/06/05/Guestbook-NDA.html",
+                    "published": "Sat, 05 Jun 2021 20:25:00 +0000",
+                    "title": "The Guestbook NDA"
+                },
+                "https://writing.kemitchell.com/2021/03/18/You-Can-Still-Use-the-Software.html": {
+                    "link": "https://writing.kemitchell.com/2021/03/18/You-Can-Still-Use-the-Software.html",
+                    "published": "Thu, 18 Mar 2021 00:00:00 -0700",
+                    "title": "You Can Still Use the Software"
+                },
+                "https://writing.kemitchell.com/2021/05/31/2020-Annual-Homeless-Assessment.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/31/2020-Annual-Homeless-Assessment.html",
+                    "published": "Mon, 31 May 2021 17:22:00 +0000",
+                    "title": "2020 Annual Homeless Assessment Report"
+                },
+                "https://writing.kemitchell.com/2021/05/11/Sell-Babel-8.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/11/Sell-Babel-8.html",
+                    "published": "Tue, 11 May 2021 00:00:00 -0700",
+                    "title": "Sell Babel 8"
+                },
+                "https://writing.kemitchell.com/2021/06/11/Oakland-Homeless-Camp-Fires.html": {
+                    "link": "https://writing.kemitchell.com/2021/06/11/Oakland-Homeless-Camp-Fires.html",
+                    "published": "Fri, 11 Jun 2021 00:00:00 +0000",
+                    "title": "2020 Oakland Homeless Camp Fires"
+                },
+                "https://writing.kemitchell.com/2021/06/14/Explainer-Sites.html": {
+                    "link": "https://writing.kemitchell.com/2021/06/14/Explainer-Sites.html",
+                    "published": "Mon, 14 Jun 2021 02:58:00 +0000",
+                    "title": "Legal Explainer Sites"
+                },
+                "https://writing.kemitchell.com/2021/06/23/PolyForm-Commercial-Preview.html": {
+                    "link": "https://writing.kemitchell.com/2021/06/23/PolyForm-Commercial-Preview.html",
+                    "published": "Wed, 23 Jun 2021 00:00:00 +0000",
+                    "title": "Standardize Commercial Software Licensing"
+                },
+                "https://writing.kemitchell.com/2021/08/20/Time-Off.html": {
+                    "link": "https://writing.kemitchell.com/2021/08/20/Time-Off.html",
+                    "published": "Fri, 20 Aug 2021 18:36:00 +0000",
+                    "title": "Time Off Summer '21"
+                },
+                "https://writing.kemitchell.com/2021/05/16/Legal-Technology-as-Regulatory-Arbitrage.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/16/Legal-Technology-as-Regulatory-Arbitrage.html",
+                    "published": "Sun, 16 May 2021 08:59:00 -0700",
+                    "title": "Legal Technology as Regulatory Arbitrage"
+                },
+                "https://writing.kemitchell.com/2021/05/28/One-Way-NDA.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/28/One-Way-NDA.html",
+                    "published": "Fri, 28 May 2021 18:34:00 +0000",
+                    "title": "One-Way NDA"
+                },
+                "https://writing.kemitchell.com/2021/03/13/Zebra-G-750.html": {
+                    "link": "https://writing.kemitchell.com/2021/03/13/Zebra-G-750.html",
+                    "published": "Sat, 13 Mar 2021 21:39:00 -0800",
+                    "title": "Zebra G-750 First Look"
+                },
+                "https://writing.kemitchell.com/2021/06/21/License-Round-Up.html": {
+                    "link": "https://writing.kemitchell.com/2021/06/21/License-Round-Up.html",
+                    "published": "Mon, 21 Jun 2021 06:36:00 +0000",
+                    "title": "License Round-Up"
+                },
+                "https://writing.kemitchell.com/2021/05/10/Law-Insider-Contract-Teardowns.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/10/Law-Insider-Contract-Teardowns.html",
+                    "published": "Mon, 10 May 2021 00:00:00 -0700",
+                    "title": "Law Insider's Contract Teardowns"
+                },
+                "https://writing.kemitchell.com/2021/05/25/Drafting-Anxiety.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/25/Drafting-Anxiety.html",
+                    "published": "Tue, 25 May 2021 02:57:00 +0000",
+                    "title": "Drafter's Anxiety"
+                },
+                "https://writing.kemitchell.com/2021/06/19/Waypoint-3.html": {
+                    "link": "https://writing.kemitchell.com/2021/06/19/Waypoint-3.html",
+                    "published": "Sat, 19 Jun 2021 18:26:00 +0000",
+                    "title": "Waypoint NDA 3.0.0"
+                },
+                "https://writing.kemitchell.com/2021/08/12/Contract-by-E-Mail.html": {
+                    "link": "https://writing.kemitchell.com/2021/08/12/Contract-by-E-Mail.html",
+                    "published": "Thu, 12 Aug 2021 16:31:42 +0000",
+                    "title": "Contract by E-Mail"
+                },
+                "https://writing.kemitchell.com/2021/05/24/The-Luck-of-Open-Source.html": {
+                    "link": "https://writing.kemitchell.com/2021/05/24/The-Luck-of-Open-Source.html",
+                    "published": "Mon, 24 May 2021 11:25:00 -0700",
+                    "title": "The Luck of Open Source"
+                },
+                "https://writing.kemitchell.com/2021/08/24/Deutsch-Hackvan.html": {
+                    "link": "https://writing.kemitchell.com/2021/08/24/Deutsch-Hackvan.html",
+                    "published": "Tue, 24 Aug 2021 00:01:12 +0000",
+                    "title": "L. Peter Deutsch and Stig Hackvän"
+                }
+            },
+            "url": "https://writing.kemitchell.com/feed.xml",
+            "last_update": "2021-09-01T20:01:12.561205Z",
+            "title": "/dev/lawyer"
+        }
+    },
+    {
+        "updateTime": "2021-09-01T20:01:13.178311Z",
+        "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/wwwbloombergcomopinionauthorsARbTQlRLRjEmatthewslevinerss",
+        "createTime": "2021-05-17T05:02:00.566104Z",
+        "fields": {
+            "entries": {
+                "https://www.bloomberg.com/opinion/articles/2021-06-10/maybe-gamestop-is-good-now": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-10/maybe-gamestop-is-good-now",
+                    "published": "Thu, 10 Jun 2021 16:56:11 GMT",
+                    "title": "Maybe GameStop Is Good Now"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-06/dogecoin-is-up-because-it-s-funny": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-06/dogecoin-is-up-because-it-s-funny",
+                    "published": "Thu, 06 May 2021 16:44:57 GMT",
+                    "title": "Dogecoin Is Up Because It’s Funny"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-13/grab-spac-mega-merger-isn-t-mega-without-blackrock-pipe": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-13/grab-spac-mega-merger-isn-t-mega-without-blackrock-pipe",
+                    "published": "Tue, 13 Apr 2021 16:28:32 GMT",
+                    "title": "Big SPAC Deals Don’t Need Big SPACs"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-21/lordstown-executives-had-good-timing": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-21/lordstown-executives-had-good-timing",
+                    "published": "Mon, 21 Jun 2021 15:59:41 GMT",
+                    "title": "Lordstown Executives Had Good Timing"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-04/under-armour-earnings-were-a-bit-misleading": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-04/under-armour-earnings-were-a-bit-misleading",
+                    "published": "Tue, 04 May 2021 16:40:45 GMT",
+                    "title": "Under Armour Sold Some Clothes Early"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-20/banks-don-t-want-to-be-paid-back-yet": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-20/banks-don-t-want-to-be-paid-back-yet",
+                    "published": "Thu, 20 May 2021 16:47:25 GMT",
+                    "title": "Banks Don’t Want to Be Paid Back Yet"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-06/blockchain-lets-you-bet-on-stocks": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-06/blockchain-lets-you-bet-on-stocks",
+                    "published": "Tue, 06 Jul 2021 16:49:34 GMT",
+                    "title": "Blockchain Lets You Bet on Stocks"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-09/the-meme-stocks-keep-coming": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-09/the-meme-stocks-keep-coming",
+                    "published": "Wed, 09 Jun 2021 16:44:19 GMT",
+                    "title": "The Meme Stocks Keep Coming"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-04/the-sec-has-its-eye-on-crypto": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-04/the-sec-has-its-eye-on-crypto",
+                    "published": "Wed, 04 Aug 2021 17:01:58 GMT",
+                    "title": "The SEC Has Its Eye on Crypto"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-11/crypto-hackers-are-nice-now": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-11/crypto-hackers-are-nice-now",
+                    "published": "Wed, 11 Aug 2021 16:44:00 GMT",
+                    "title": "Crypto Hackers Are Nice Now"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-19/everyone-loves-the-100-million-new-jersey-deli-except-david-einhorn-knottrmb": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-19/everyone-loves-the-100-million-new-jersey-deli-except-david-einhorn-knottrmb",
+                    "published": "Mon, 19 Apr 2021 16:42:38 GMT",
+                    "title": "Everyone Loves the $100 Million Deli"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-14/morgan-stanley-s-ted-pick-matched-wits-with-goldman-s-blankfein": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-14/morgan-stanley-s-ted-pick-matched-wits-with-goldman-s-blankfein",
+                    "published": "Mon, 14 Jun 2021 16:48:09 GMT",
+                    "title": "Morgan Stanley Marks Office Space to Market"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-16/don-t-pay-gambling-debts-by-insider-trading": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-16/don-t-pay-gambling-debts-by-insider-trading",
+                    "published": "Wed, 16 Jun 2021 16:44:55 GMT",
+                    "title": "Don’t Pay Gambling Debts By Insider Trading"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-12/the-hertz-gamblers-were-right": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-12/the-hertz-gamblers-were-right",
+                    "published": "Wed, 12 May 2021 16:51:06 GMT",
+                    "title": "The Hertz Gamblers Were Right"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-22/private-equity-firm-got-rich-making-private-equity-firms-rich": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-22/private-equity-firm-got-rich-making-private-equity-firms-rich",
+                    "published": "Thu, 22 Jul 2021 17:23:26 GMT",
+                    "title": "Private Equity Firm Got Rich Making Private Equity Firms Rich"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-29/archegos-was-too-busy-for-margin-calls",
+                    "published": "Thu, 29 Jul 2021 17:12:48 GMT",
+                    "title": "Archegos Was Too Busy for Margin Calls"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-24/merrill-lynch-puts-down-the-phone": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-24/merrill-lynch-puts-down-the-phone",
+                    "published": "Mon, 24 May 2021 16:29:24 GMT",
+                    "title": "Merrill Lynch Puts Down the Phone"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-15/coinbase-direct-listing-needed-the-coin-ticker": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-15/coinbase-direct-listing-needed-the-coin-ticker",
+                    "published": "Thu, 15 Apr 2021 16:46:40 GMT",
+                    "title": "You Have to Get the Right Ticker"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-24/fidelity-manager-owned-gamestop-but-lacked-diamond-hands": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-24/fidelity-manager-owned-gamestop-but-lacked-diamond-hands",
+                    "published": "Thu, 24 Jun 2021 15:59:05 GMT",
+                    "title": "Fidelity Manager Lacked Diamond Hands"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-20/bill-ackman-s-three-spacs-were-too-many": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-20/bill-ackman-s-three-spacs-were-too-many",
+                    "published": "Tue, 20 Jul 2021 16:42:38 GMT",
+                    "title": "Bill Ackman’s Three SPACs Were Too Many"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-23/spac-shareholders-get-distracted": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-23/spac-shareholders-get-distracted",
+                    "published": "Fri, 23 Jul 2021 16:57:45 GMT",
+                    "title": "SPAC Shareholders Get Distracted"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-28/wu-tang-album-owned-by-martin-shkreli-had-so-much-potential": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-28/wu-tang-album-owned-by-martin-shkreli-had-so-much-potential",
+                    "published": "Wed, 28 Jul 2021 19:01:56 GMT",
+                    "title": "The Wu-Tang Deal Had So Much Potential"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-15/lordstown-s-electric-truck-orders-were-vague": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-15/lordstown-s-electric-truck-orders-were-vague",
+                    "published": "Tue, 15 Jun 2021 16:53:04 GMT",
+                    "title": "Lordstown’s Electric-Truck Orders Were Vague"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-17/elon-musk-controls-bitcoin-and-dogecoin-prices-with-pure-magic": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-17/elon-musk-controls-bitcoin-and-dogecoin-prices-with-pure-magic",
+                    "published": "Mon, 17 May 2021 15:59:17 GMT",
+                    "title": "Elon Musk’s Bitcoin Fun Continues"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-08/moviepass-changed-some-passwords": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-08/moviepass-changed-some-passwords",
+                    "published": "Tue, 08 Jun 2021 16:19:19 GMT",
+                    "title": "MoviePass Changed Some Passwords"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-04/bill-ackman-s-spac-will-be-three-spacs": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-04/bill-ackman-s-spac-will-be-three-spacs",
+                    "published": "Fri, 04 Jun 2021 16:44:35 GMT",
+                    "title": "Bill Ackman’s SPAC Will Be Three SPACs"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-26/accused-ponzi-schemer-kept-busy": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-26/accused-ponzi-schemer-kept-busy",
+                    "published": "Thu, 26 Aug 2021 16:12:01 GMT",
+                    "title": "Accused Ponzi Schemer Kept Busy"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-22/jpmorgan-s-european-super-league-debacle-is-about-stakeholders": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-22/jpmorgan-s-european-super-league-debacle-is-about-stakeholders",
+                    "published": "Thu, 22 Apr 2021 16:25:47 GMT",
+                    "title": "Soccer Fans Are Stakeholders Too"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-30/amazon-got-some-warrants": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-30/amazon-got-some-warrants",
+                    "published": "Wed, 30 Jun 2021 16:56:24 GMT",
+                    "title": "Amazon Got Some Warrants"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-28/elon-musk-made-tesla-some-money-on-bitcoin",
+                    "published": "Wed, 28 Apr 2021 17:00:38 GMT",
+                    "title": "Tesla Sold Some Bitcoins"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-10/spend-your-bitcoins-at-the-gamestop-in-the-amc": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-10/spend-your-bitcoins-at-the-gamestop-in-the-amc",
+                    "published": "Tue, 10 Aug 2021 16:15:39 GMT",
+                    "title": "Spend Your Bitcoins at the GameStop in the AMC"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-03/spacs-aren-t-a-guarantee-cf-finance-iii-and-aeye-are-proof": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-03/spacs-aren-t-a-guarantee-cf-finance-iii-and-aeye-are-proof",
+                    "published": "Mon, 03 May 2021 16:43:28 GMT",
+                    "title": "SPACs Aren’t Always a Guarantee"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-12/goldman-doesn-t-want-mercenaries": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-12/goldman-doesn-t-want-mercenaries",
+                    "published": "Mon, 12 Jul 2021 16:40:30 GMT",
+                    "title": "Goldman Doesn’t Want Mercenaries"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-19/you-can-spac-your-spac": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-19/you-can-spac-your-spac",
+                    "published": "Wed, 19 May 2021 16:49:49 GMT",
+                    "title": "You Can SPAC Your SPAC"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-03/amc-has-a-bit-more-stock-to-sell": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-03/amc-has-a-bit-more-stock-to-sell",
+                    "published": "Thu, 03 Jun 2021 16:31:17 GMT",
+                    "title": "AMC Has a Bit More Stock to Sell"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-07/spacs-can-shoot-out-sparcs": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-07/spacs-can-shoot-out-sparcs",
+                    "published": "Mon, 07 Jun 2021 16:44:40 GMT",
+                    "title": "SPACs Can Shoot Out SPARCs"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-31/theranos-trial-elizabeth-holmes-was-a-lottery-ticket-for-investors": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-31/theranos-trial-elizabeth-holmes-was-a-lottery-ticket-for-investors",
+                    "published": "Tue, 31 Aug 2021 18:27:24 GMT",
+                    "title": "Theranos Was a Losing Lottery Ticket for Investors"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-15/the-meme-stocks-can-t-fail": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-15/the-meme-stocks-can-t-fail",
+                    "published": "Thu, 15 Jul 2021 17:01:20 GMT",
+                    "title": "The Meme Stocks Can’t Fail"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-01/pump-and-dump-and-pull-the-rug": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-01/pump-and-dump-and-pull-the-rug",
+                    "published": "Thu, 01 Jul 2021 16:05:52 GMT",
+                    "title": "Pump and Dump and Pull the Rug"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-29/facebook-victory-against-the-ftc-is-an-antitrust-lesson-in-monopoly-power-kqi8jeku": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-29/facebook-victory-against-the-ftc-is-an-antitrust-lesson-in-monopoly-power-kqi8jeku",
+                    "published": "Tue, 29 Jun 2021 15:59:13 GMT",
+                    "title": "Facebook Is Big But Maybe Not a Monopoly"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-25/elon-musk-wants-bitcoin-to-be-green-but-esg-is-all-relative": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-25/elon-musk-wants-bitcoin-to-be-green-but-esg-is-all-relative",
+                    "published": "Tue, 25 May 2021 16:33:20 GMT",
+                    "title": "Bitcoin Could Use a Greener Image"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-26/gamestop-s-ceo-goes-out-on-top": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-26/gamestop-s-ceo-goes-out-on-top",
+                    "published": "Mon, 26 Apr 2021 16:55:30 GMT",
+                    "title": "GameStop’s CEO Goes Out on Top"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-26/it-s-easy-to-borrow-money-if-you-have-money": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-26/it-s-easy-to-borrow-money-if-you-have-money",
+                    "published": "Mon, 26 Jul 2021 17:11:12 GMT",
+                    "title": "It’s Easy to Borrow Money If You Have Money"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-12/credit-suisse-s-oopsie-bonds-go-down": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-12/credit-suisse-s-oopsie-bonds-go-down",
+                    "published": "Thu, 12 Aug 2021 16:49:21 GMT",
+                    "title": "Credit Suisse’s Oopsie Bonds Go Down"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-07/owning-chinese-companies-is-complicated": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-07/owning-chinese-companies-is-complicated",
+                    "published": "Wed, 07 Jul 2021 16:55:53 GMT",
+                    "title": "Owning Chinese Companies Is Complicated"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-11/crypto-markets-are-where-the-fun-is": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-11/crypto-markets-are-where-the-fun-is",
+                    "published": "Tue, 11 May 2021 16:43:36 GMT",
+                    "title": "Crypto Markets Are Where the Fun Is"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-05/robinhood-is-more-fun-with-options": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-05/robinhood-is-more-fun-with-options",
+                    "published": "Thu, 05 Aug 2021 16:42:27 GMT",
+                    "title": "Robinhood Is More Fun With Options"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-27/exxon-lost-a-climate-proxy-fight": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-27/exxon-lost-a-climate-proxy-fight",
+                    "published": "Thu, 27 May 2021 16:55:14 GMT",
+                    "title": "Exxon Lost a Climate Proxy Fight"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-14/sec-sues-space-spac": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-14/sec-sues-space-spac",
+                    "published": "Wed, 14 Jul 2021 16:04:15 GMT",
+                    "title": "SEC Sues Space SPAC"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-02/chinese-stocks-will-get-more-warnings": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-02/chinese-stocks-will-get-more-warnings",
+                    "published": "Mon, 02 Aug 2021 17:04:47 GMT",
+                    "title": "Chinese Stocks Will Get More Warnings"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-24/hedge-funds-want-to-stay-popular": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-24/hedge-funds-want-to-stay-popular",
+                    "published": "Tue, 24 Aug 2021 16:30:56 GMT",
+                    "title": "Hedge Funds Want to Stay Popular"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-21/jamie-dimon-got-a-bonus": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-21/jamie-dimon-got-a-bonus",
+                    "published": "Wed, 21 Jul 2021 16:15:04 GMT",
+                    "title": "Jamie Dimon Got a Bonus"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-25/insiders-trade-in-outside-companies": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-25/insiders-trade-in-outside-companies",
+                    "published": "Wed, 25 Aug 2021 16:25:37 GMT",
+                    "title": "Insiders Trade in Outside Companies"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-14/good-and-exciting-times-for-banks": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-14/good-and-exciting-times-for-banks",
+                    "published": "Wed, 14 Apr 2021 16:35:25 GMT",
+                    "title": "Good and Exciting Times for Banks"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-23/spac-suit-leads-to-sparcs": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-23/spac-suit-leads-to-sparcs",
+                    "published": "Mon, 23 Aug 2021 18:11:57 GMT",
+                    "title": "SPAC Suit Leads to SPARCs"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-30/hometown-international-the-100-million-deli-is-a-weird-spac": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-30/hometown-international-the-100-million-deli-is-a-weird-spac",
+                    "published": "Fri, 30 Apr 2021 16:32:43 GMT",
+                    "title": "The Deli Is a Weird SPAC"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-21/you-can-sell-the-trees-you-don-t-cut": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-21/you-can-sell-the-trees-you-don-t-cut",
+                    "published": "Wed, 21 Apr 2021 16:37:39 GMT",
+                    "title": "You Can Sell the Trees You Don’t Cut"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-08/someone-is-going-to-drill-the-oil": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-08/someone-is-going-to-drill-the-oil",
+                    "published": "Thu, 08 Jul 2021 16:44:53 GMT",
+                    "title": "Someone Is Going to Drill the Oil"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-18/s-p-firm-forgot-to-update-the-xiv-index": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-18/s-p-firm-forgot-to-update-the-xiv-index",
+                    "published": "Tue, 18 May 2021 16:29:09 GMT",
+                    "title": "S&P Forgot to Update the XIV Index"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-13/elon-musk-got-bored-of-bitcoin": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-13/elon-musk-got-bored-of-bitcoin",
+                    "published": "Thu, 13 May 2021 16:45:09 GMT",
+                    "title": "Elon Musk Got Bored of Bitcoin"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-01/it-s-good-to-win-a-proxy-fight": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-01/it-s-good-to-win-a-proxy-fight",
+                    "published": "Tue, 01 Jun 2021 16:42:25 GMT",
+                    "title": "It’s Good to Win a Proxy Fight"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-17/titanium-got-crushed": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-17/titanium-got-crushed",
+                    "published": "Thu, 17 Jun 2021 16:59:54 GMT",
+                    "title": "Titanium Got Crushed"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-13/elon-musk-never-wanted-to-be-tesla-ceo": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-13/elon-musk-never-wanted-to-be-tesla-ceo",
+                    "published": "Tue, 13 Jul 2021 16:41:22 GMT",
+                    "title": "Elon Musk Never Wanted to Be CEO"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-28/investors-will-buy-anything-now": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-28/investors-will-buy-anything-now",
+                    "published": "Mon, 28 Jun 2021 17:00:23 GMT",
+                    "title": "Investors Will Buy Anything Now"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-20/hometown-international-new-jersey-deli-is-actually-worth-2-billion": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-20/hometown-international-new-jersey-deli-is-actually-worth-2-billion",
+                    "published": "Tue, 20 Apr 2021 16:28:44 GMT",
+                    "title": "Actually It’s a $2 Billion Deli"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-02/robinhood-ipo-filing-is-a-lesson-in-meme-finance": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-02/robinhood-ipo-filing-is-a-lesson-in-meme-finance",
+                    "published": "Fri, 02 Jul 2021 15:59:04 GMT",
+                    "title": "Robinhood’s Investors Have Fun"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-29/ignoring-the-rules-sometimes-works-for-elon-musk": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-29/ignoring-the-rules-sometimes-works-for-elon-musk",
+                    "published": "Thu, 29 Apr 2021 16:47:41 GMT",
+                    "title": "Ignoring the Rules Sometimes Works"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-22/everything-still-might-be-securities-fraud": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-22/everything-still-might-be-securities-fraud",
+                    "published": "Tue, 22 Jun 2021 16:01:10 GMT",
+                    "title": "Everything Still Might Be Securities Fraud"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-02/amc-brings-out-the-popcorn": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-02/amc-brings-out-the-popcorn",
+                    "published": "Wed, 02 Jun 2021 16:39:01 GMT",
+                    "title": "AMC Brings Out the Popcorn"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-27/matt-levine-s-money-stuff-lordstown-is-selling-some-stock": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-27/matt-levine-s-money-stuff-lordstown-is-selling-some-stock",
+                    "published": "Tue, 27 Jul 2021 15:59:12 GMT",
+                    "title": "Lordstown Is Selling Some Stock"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-31/what-happens-to-robinhood-if-the-sec-bans-payment-for-order-flow": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-31/what-happens-to-robinhood-if-the-sec-bans-payment-for-order-flow",
+                    "published": "Tue, 31 Aug 2021 16:23:31 GMT",
+                    "title": "Does Robinhood Need Payment for Order Flow?"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-12/maybe-spacs-are-really-ipos": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-12/maybe-spacs-are-really-ipos",
+                    "published": "Mon, 12 Apr 2021 16:11:50 GMT",
+                    "title": "Maybe SPACs Are Really IPOs"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-03/your-auditor-is-not-your-friend": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-03/your-auditor-is-not-your-friend",
+                    "published": "Tue, 03 Aug 2021 16:41:11 GMT",
+                    "title": "Your Auditor Is Not Your Friend"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-06-23/supreme-court-won-t-help-gse-shareholders-much": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-06-23/supreme-court-won-t-help-gse-shareholders-much",
+                    "published": "Wed, 23 Jun 2021 17:01:07 GMT",
+                    "title": "Supreme Court Won’t Help GSE Shareholders Much"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-26/exxon-has-a-tough-green-activist": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-26/exxon-has-a-tough-green-activist",
+                    "published": "Wed, 26 May 2021 17:03:55 GMT",
+                    "title": "Exxon Has a Tough Green Activist"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-04-08/archegos-got-too-big-for-its-banks": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-04-08/archegos-got-too-big-for-its-banks",
+                    "published": "Thu, 08 Apr 2021 16:27:36 GMT",
+                    "title": "Archegos Got Too Big for Its Banks"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-09-01/putting-meme-stocks-like-gamestop-in-the-index": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-09-01/putting-meme-stocks-like-gamestop-in-the-index",
+                    "published": "Wed, 01 Sep 2021 17:00:28 GMT",
+                    "title": "Putting the Meme Stocks in the Index"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-09/the-sec-has-some-crypto-complaints": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-09/the-sec-has-some-crypto-complaints",
+                    "published": "Mon, 09 Aug 2021 16:53:08 GMT",
+                    "title": "The SEC Has Some Crypto Complaints"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-07-28/robinhood-users-get-to-own-robinhood": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-07-28/robinhood-users-get-to-own-robinhood",
+                    "published": "Wed, 28 Jul 2021 16:29:28 GMT",
+                    "title": "Robinhood Users Get to Own Robinhood"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-05-10/elon-musk-s-snl-debut-didn-t-help-the-dogecoin-bulls": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-05-10/elon-musk-s-snl-debut-didn-t-help-the-dogecoin-bulls",
+                    "published": "Mon, 10 May 2021 16:32:43 GMT",
+                    "title": "Dogecoin Jokes Didn’t Help the Price"
+                },
+                "https://www.bloomberg.com/opinion/articles/2021-08-30/esg-accounting-requires-accountants": {
+                    "link": "https://www.bloomberg.com/opinion/articles/2021-08-30/esg-accounting-requires-accountants",
+                    "published": "Mon, 30 Aug 2021 17:09:52 GMT",
+                    "title": "ESG Accounting Requires Accountants"
+                }
+            },
+            "url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+            "last_update": "2021-09-01T20:01:12.880055Z",
+            "title": "Matt Levine - Bloomberg Opinion Columnist"
+        }
+    },
+    {
+        "updateTime": "2021-09-01T20:01:13.894961Z",
+        "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/wwwmath3macomblogrssxml",
+        "createTime": "2021-08-02T20:30:18.940408Z",
+        "fields": {
+            "entries": {
+                "https://www.math3ma.com/blog/crumbs-7": {
+                    "link": "https://www.math3ma.com/blog/crumbs-7",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "crumbs!"
+                },
+                "https://www.math3ma.com/blog/modeling-sequences-with-quantum-states": {
+                    "link": "https://www.math3ma.com/blog/modeling-sequences-with-quantum-states",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "Modeling Sequences with Quantum States"
+                },
+                "https://www.math3ma.com/blog/operator-norm-intuitively": {
+                    "link": "https://www.math3ma.com/blog/operator-norm-intuitively",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "Operator Norm, Intuitively"
+                },
+                "https://www.math3ma.com/blog/commutative-diagrams-explained": {
+                    "link": "https://www.math3ma.com/blog/commutative-diagrams-explained",
+                    "published": "Mon, 06 May 2019 19:33:25 GMT",
+                    "title": "Commutative Diagrams Explained"
+                },
+                "https://www.math3ma.com/blog/flavors-of-continuity": {
+                    "link": "https://www.math3ma.com/blog/flavors-of-continuity",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Four Flavors of Continuity"
+                },
+                "https://www.math3ma.com/blog/english-is-not-commutative": {
+                    "link": "https://www.math3ma.com/blog/english-is-not-commutative",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "English is Not Commutative"
+                },
+                "https://www.math3ma.com/blog/compact-hausdorff-normal": {
+                    "link": "https://www.math3ma.com/blog/compact-hausdorff-normal",
+                    "published": "Tue, 03 Dec 2019 21:52:54 GMT",
+                    "title": "Compact + Hausdorff = Normal"
+                },
+                "https://www.math3ma.com/blog/group-elements-categorically": {
+                    "link": "https://www.math3ma.com/blog/group-elements-categorically",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Group Elements, Categorically"
+                },
+                "https://www.math3ma.com/blog/limits-and-colimits-part-1": {
+                    "link": "https://www.math3ma.com/blog/limits-and-colimits-part-1",
+                    "published": "Thu, 24 Jan 2019 03:01:00 GMT",
+                    "title": "Limits and Colimits, Part 1 (Introduction)"
+                },
+                "https://www.math3ma.com/blog/completing-a-metric-space-intuitively": {
+                    "link": "https://www.math3ma.com/blog/completing-a-metric-space-intuitively",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "Completing a Metric Space, Intuitively"
+                },
+                "https://www.math3ma.com/blog/introducing-crumbs": {
+                    "link": "https://www.math3ma.com/blog/introducing-crumbs",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Introducing... crumbs!"
+                },
+                "https://www.math3ma.com/blog/topology-vs-a-topology": {
+                    "link": "https://www.math3ma.com/blog/topology-vs-a-topology",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Topology vs. \"A Topology\" (cont.)"
+                },
+                "https://www.math3ma.com/blog/absolute-continuity-part-two": {
+                    "link": "https://www.math3ma.com/blog/absolute-continuity-part-two",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Absolute Continuity (Part Two)"
+                },
+                "https://www.math3ma.com/blog/an-unspoken-rule-of-algebra": {
+                    "link": "https://www.math3ma.com/blog/an-unspoken-rule-of-algebra",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "One Unspoken Rule of Algebra"
+                },
+                "https://www.math3ma.com/blog/act-2019": {
+                    "link": "https://www.math3ma.com/blog/act-2019",
+                    "published": "Wed, 09 Jan 2019 20:39:30 GMT",
+                    "title": "Announcing Applied Category Theory 2019"
+                },
+                "https://www.math3ma.com/blog/on-connectedness-intuitively": {
+                    "link": "https://www.math3ma.com/blog/on-connectedness-intuitively",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "On Connectedness, Intuitively"
+                },
+                "https://www.math3ma.com/blog/warming-up-to-enriched-category-theory-1": {
+                    "link": "https://www.math3ma.com/blog/warming-up-to-enriched-category-theory-1",
+                    "published": "Thu, 10 Jun 2021 17:45:24 GMT",
+                    "title": "Warming Up to Enriched Category Theory, Part 1"
+                },
+                "https://www.math3ma.com/blog/language-statistics-category-theory-part-1": {
+                    "link": "https://www.math3ma.com/blog/language-statistics-category-theory-part-1",
+                    "published": "Wed, 07 Jul 2021 20:18:57 GMT",
+                    "title": "Language, Statistics, & Category Theory, Part 1"
+                },
+                "https://www.math3ma.com/blog/the-yoneda-lemma": {
+                    "link": "https://www.math3ma.com/blog/the-yoneda-lemma",
+                    "published": "Wed, 29 Jan 2020 18:29:10 GMT",
+                    "title": "The Yoneda Lemma"
+                },
+                "https://www.math3ma.com/blog/what-is-a-natural-transformation": {
+                    "link": "https://www.math3ma.com/blog/what-is-a-natural-transformation",
+                    "published": "Thu, 30 Jan 2020 16:28:21 GMT",
+                    "title": "What is a Natural Transformation? Definition and Examples"
+                },
+                "https://www.math3ma.com/blog/what-is-an-operad-part-1": {
+                    "link": "https://www.math3ma.com/blog/what-is-an-operad-part-1",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "What is an Operad? Part 1"
+                },
+                "https://www.math3ma.com/blog/ways-to-show-a-group-is-abelian": {
+                    "link": "https://www.math3ma.com/blog/ways-to-show-a-group-is-abelian",
+                    "published": "Fri, 07 Feb 2020 02:25:59 GMT",
+                    "title": "Ways to Show a Group is Abelian"
+                },
+                "https://www.math3ma.com/blog/a-ramble-about-qualifying-exams": {
+                    "link": "https://www.math3ma.com/blog/a-ramble-about-qualifying-exams",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "A Ramble About Qualifying Exams"
+                },
+                "https://www.math3ma.com/blog/motivation-for-the-tensor-product": {
+                    "link": "https://www.math3ma.com/blog/motivation-for-the-tensor-product",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Motivation for the Tensor Product"
+                },
+                "https://www.math3ma.com/blog/whats-a-transitive-group-action": {
+                    "link": "https://www.math3ma.com/blog/whats-a-transitive-group-action",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "What's a Transitive Group Action?"
+                },
+                "https://www.math3ma.com/blog/one-unspoken-rule-of-measure-theory": {
+                    "link": "https://www.math3ma.com/blog/one-unspoken-rule-of-measure-theory",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "One Unspoken Rule of Measure Theory"
+                },
+                "https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses": {
+                    "link": "https://www.math3ma.com/blog/resources-for-intro-level-graduate-courses",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Resources for Intro-Level Graduate Courses"
+                },
+                "https://www.math3ma.com/blog/a-little-fact-from-group-actions": {
+                    "link": "https://www.math3ma.com/blog/a-little-fact-from-group-actions",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "A Little Fact From Group Actions"
+                },
+                "https://www.math3ma.com/blog/what-is-an-adjunction-part-2": {
+                    "link": "https://www.math3ma.com/blog/what-is-an-adjunction-part-2",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "What is an Adjunction? Part 2 (Definition)"
+                },
+                "https://www.math3ma.com/blog/whats-next": {
+                    "link": "https://www.math3ma.com/blog/whats-next",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "What's Next? (An Update)"
+                },
+                "https://www.math3ma.com/blog/a-recipe-for-the-universal-cover-of-x-y": {
+                    "link": "https://www.math3ma.com/blog/a-recipe-for-the-universal-cover-of-x-y",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "A Recipe for the Universal Cover of X⋁Y"
+                },
+                "https://www.math3ma.com/blog/a-first-look-at-quantum-probability-part-2": {
+                    "link": "https://www.math3ma.com/blog/a-first-look-at-quantum-probability-part-2",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "A First Look at Quantum Probability, Part 2"
+                },
+                "https://www.math3ma.com/blog/crumbs-6": {
+                    "link": "https://www.math3ma.com/blog/crumbs-6",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "crumbs!"
+                },
+                "https://www.math3ma.com/blog/some-notes-on-taking-notes": {
+                    "link": "https://www.math3ma.com/blog/some-notes-on-taking-notes",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Some Notes on Taking Notes"
+                },
+                "https://www.math3ma.com/blog/the-tensor-product-demystified": {
+                    "link": "https://www.math3ma.com/blog/the-tensor-product-demystified",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "The Tensor Product, Demystified"
+                },
+                "https://www.math3ma.com/blog/continuous-functions-discontinuous-supremum": {
+                    "link": "https://www.math3ma.com/blog/continuous-functions-discontinuous-supremum",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Continuous Functions, Discontinuous Supremum"
+                },
+                "https://www.math3ma.com/blog/monotone-convergence-theorem": {
+                    "link": "https://www.math3ma.com/blog/monotone-convergence-theorem",
+                    "published": "Tue, 21 Apr 2020 17:37:49 GMT",
+                    "title": "Monotone Convergence Theorem"
+                },
+                "https://www.math3ma.com/blog/a-math-blog-say-what": {
+                    "link": "https://www.math3ma.com/blog/a-math-blog-say-what",
+                    "published": "Thu, 24 Jan 2019 03:45:25 GMT",
+                    "title": "A Math Blog? Say What?"
+                },
+                "https://www.math3ma.com/blog/what-is-a-natural-transformation-2": {
+                    "link": "https://www.math3ma.com/blog/what-is-a-natural-transformation-2",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "What is a Natural Transformation? Definition and Examples, Part 2"
+                },
+                "https://www.math3ma.com/blog/transitive-group-actions-where-theres-a-will-theres-a-way": {
+                    "link": "https://www.math3ma.com/blog/transitive-group-actions-where-theres-a-will-theres-a-way",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Transitive Group Actions: \"Where There's a Will, There's a Way!\""
+                },
+                "https://www.math3ma.com/blog/understanding-entanglement-with-svd": {
+                    "link": "https://www.math3ma.com/blog/understanding-entanglement-with-svd",
+                    "published": "Tue, 29 Dec 2020 17:32:40 GMT",
+                    "title": "Understanding Entanglement With SVD"
+                },
+                "https://www.math3ma.com/blog/fibonacci-sequence": {
+                    "link": "https://www.math3ma.com/blog/fibonacci-sequence",
+                    "published": "Tue, 08 Jun 2021 20:34:10 GMT",
+                    "title": "The Fibonacci Sequence as a Functor"
+                },
+                "https://www.math3ma.com/blog/the-yoneda-embedding": {
+                    "link": "https://www.math3ma.com/blog/the-yoneda-embedding",
+                    "published": "Wed, 29 Jan 2020 18:29:10 GMT",
+                    "title": "The Yoneda Embedding"
+                },
+                "https://www.math3ma.com/blog/is-the-square-a-secure-polygon": {
+                    "link": "https://www.math3ma.com/blog/is-the-square-a-secure-polygon",
+                    "published": "Sat, 13 Oct 2018 16:17:48 GMT",
+                    "title": "Is the Square a Secure Polygon?"
+                },
+                "https://www.math3ma.com/blog/baire-category-nowhere-differentiable-functions-part-one": {
+                    "link": "https://www.math3ma.com/blog/baire-category-nowhere-differentiable-functions-part-one",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Baire Category & Nowhere Differentiable Functions (Part One)"
+                },
+                "https://www.math3ma.com/blog/the-yoneda-perspective": {
+                    "link": "https://www.math3ma.com/blog/the-yoneda-perspective",
+                    "published": "Tue, 21 Apr 2020 17:49:05 GMT",
+                    "title": "The Yoneda Perspective"
+                },
+                "https://www.math3ma.com/blog/topology-book-launch": {
+                    "link": "https://www.math3ma.com/blog/topology-book-launch",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "Topology Book Launch"
+                },
+                "https://www.math3ma.com/blog/what-is-an-adjunction-part-3": {
+                    "link": "https://www.math3ma.com/blog/what-is-an-adjunction-part-3",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "What is an Adjunction? Part 3 (Examples)"
+                },
+                "https://www.math3ma.com/blog/need-to-prove-your-ring-is-not-a-ufd": {
+                    "link": "https://www.math3ma.com/blog/need-to-prove-your-ring-is-not-a-ufd",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "Need to Prove Your Ring is NOT a UFD?"
+                },
+                "https://www.math3ma.com/blog/baire-category-nowhere-differentiable-functions-part-two": {
+                    "link": "https://www.math3ma.com/blog/baire-category-nowhere-differentiable-functions-part-two",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Baire Category & Nowhere Differentiable Functions (Part Two)"
+                },
+                "https://www.math3ma.com/blog/applied-category-theory-2020": {
+                    "link": "https://www.math3ma.com/blog/applied-category-theory-2020",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "Applied Category Theory 2020"
+                },
+                "https://www.math3ma.com/blog/the-integral-domain-hierarchy-part-2": {
+                    "link": "https://www.math3ma.com/blog/the-integral-domain-hierarchy-part-2",
+                    "published": "Wed, 15 May 2019 02:13:21 GMT",
+                    "title": "The Integral Domain Hierarchy, Part 2"
+                },
+                "https://www.math3ma.com/blog/a-first-look-at-quantum-probability-part-1": {
+                    "link": "https://www.math3ma.com/blog/a-first-look-at-quantum-probability-part-1",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "A First Look at Quantum Probability, Part 1"
+                },
+                "https://www.math3ma.com/blog/comparing-topologies": {
+                    "link": "https://www.math3ma.com/blog/comparing-topologies",
+                    "published": "Fri, 05 Apr 2019 13:43:40 GMT",
+                    "title": "Comparing Topologies"
+                },
+                "https://www.math3ma.com/blog/crumbs-5": {
+                    "link": "https://www.math3ma.com/blog/crumbs-5",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "crumbs!"
+                },
+                "https://www.math3ma.com/blog/dominated-convergence-theorem": {
+                    "link": "https://www.math3ma.com/blog/dominated-convergence-theorem",
+                    "published": "Tue, 21 Apr 2020 17:31:35 GMT",
+                    "title": "Dominated Convergence Theorem"
+                },
+                "https://www.math3ma.com/blog/stone-weierstrass-theorem": {
+                    "link": "https://www.math3ma.com/blog/stone-weierstrass-theorem",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Stone Weierstrass Theorem"
+                },
+                "https://www.math3ma.com/blog/language-statistics-category-theory-part-2": {
+                    "link": "https://www.math3ma.com/blog/language-statistics-category-theory-part-2",
+                    "published": "Wed, 21 Jul 2021 12:22:49 GMT",
+                    "title": "Language, Statistics, & Category Theory, Part 2"
+                },
+                "https://www.math3ma.com/blog/what-is-an-operad-part-2": {
+                    "link": "https://www.math3ma.com/blog/what-is-an-operad-part-2",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "What is an Operad? Part 2"
+                },
+                "https://www.math3ma.com/blog/limits-and-colimits-part-2": {
+                    "link": "https://www.math3ma.com/blog/limits-and-colimits-part-2",
+                    "published": "Sat, 29 Jun 2019 00:45:04 GMT",
+                    "title": "Limits and Colimits, Part 2 (Definitions)"
+                },
+                "https://www.math3ma.com/blog/why-are-noetherian-rings-special": {
+                    "link": "https://www.math3ma.com/blog/why-are-noetherian-rings-special",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "Why are Noetherian Rings Special?"
+                },
+                "https://www.math3ma.com/blog/clever-homotopy-equivalences": {
+                    "link": "https://www.math3ma.com/blog/clever-homotopy-equivalences",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Clever Homotopy Equivalences"
+                },
+                "https://www.math3ma.com/blog/good-reads-real-analysis-by-n-l-carothers": {
+                    "link": "https://www.math3ma.com/blog/good-reads-real-analysis-by-n-l-carothers",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Good Reads: Real Analysis by N. L. Carothers"
+                },
+                "https://www.math3ma.com/blog/linear-algebra-for-machine-learning": {
+                    "link": "https://www.math3ma.com/blog/linear-algebra-for-machine-learning",
+                    "published": "Thu, 24 Jun 2021 21:26:26 GMT",
+                    "title": "Linear Algebra for Machine Learning"
+                },
+                "https://www.math3ma.com/blog/learning-math": {
+                    "link": "https://www.math3ma.com/blog/learning-math",
+                    "published": "Sun, 18 Nov 2018 18:16:55 GMT",
+                    "title": "Learning How to Learn Math"
+                },
+                "https://www.math3ma.com/blog/a-group-and-its-center-intuitively": {
+                    "link": "https://www.math3ma.com/blog/a-group-and-its-center-intuitively",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "A Group and Its Center, Intuitively"
+                },
+                "https://www.math3ma.com/blog/entropy-algebra-topology": {
+                    "link": "https://www.math3ma.com/blog/entropy-algebra-topology",
+                    "published": "Wed, 28 Jul 2021 14:35:51 GMT",
+                    "title": "Entropy + Algebra + Topology = ?"
+                },
+                "https://www.math3ma.com/blog/matrices-probability-graphs": {
+                    "link": "https://www.math3ma.com/blog/matrices-probability-graphs",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "Viewing Matrices & Probability as Graphs"
+                },
+                "https://www.math3ma.com/blog/notes-on-act": {
+                    "link": "https://www.math3ma.com/blog/notes-on-act",
+                    "published": "Sun, 06 Jan 2019 02:00:46 GMT",
+                    "title": "Notes on Applied Category Theory"
+                },
+                "https://www.math3ma.com/blog/up-to-isomorphism": {
+                    "link": "https://www.math3ma.com/blog/up-to-isomorphism",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "\"Up to Isomorphism\"?"
+                },
+                "https://www.math3ma.com/blog/good-reads-the-shape-of-space": {
+                    "link": "https://www.math3ma.com/blog/good-reads-the-shape-of-space",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Good Reads: The Shape of Space"
+                },
+                "https://www.math3ma.com/blog/trustyourstruggle": {
+                    "link": "https://www.math3ma.com/blog/trustyourstruggle",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "#TrustYourStruggle"
+                },
+                "https://www.math3ma.com/blog/what-is-a-category": {
+                    "link": "https://www.math3ma.com/blog/what-is-a-category",
+                    "published": "Thu, 20 Sep 2018 13:01:14 GMT",
+                    "title": "What is a Category? Definition and Examples"
+                },
+                "https://www.math3ma.com/blog/the-pseudo-hyperbolic-metric-and-lindelofs-inequality-cont": {
+                    "link": "https://www.math3ma.com/blog/the-pseudo-hyperbolic-metric-and-lindelofs-inequality-cont",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "The Pseudo-Hyperbolic Metric and Lindelöf's Inequality (cont.)"
+                },
+                "https://www.math3ma.com/blog/language-statistics-category-theory-part-3": {
+                    "link": "https://www.math3ma.com/blog/language-statistics-category-theory-part-3",
+                    "published": "Wed, 28 Jul 2021 15:12:35 GMT",
+                    "title": "Language, Statistics, & Category Theory, Part 3"
+                },
+                "https://www.math3ma.com/blog/constructing-the-tensor-product-of-modules": {
+                    "link": "https://www.math3ma.com/blog/constructing-the-tensor-product-of-modules",
+                    "published": "Wed, 15 May 2019 02:17:15 GMT",
+                    "title": "Constructing the Tensor Product of Modules"
+                },
+                "https://www.math3ma.com/blog/limits-and-colimits-part-3": {
+                    "link": "https://www.math3ma.com/blog/limits-and-colimits-part-3",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "Limits and Colimits Part 3 (Examples)"
+                },
+                "https://www.math3ma.com/blog/classifying-surfaces": {
+                    "link": "https://www.math3ma.com/blog/classifying-surfaces",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Classifying Surfaces (CliffsNotes Version)"
+                },
+                "https://www.math3ma.com/blog/crumbs-3": {
+                    "link": "https://www.math3ma.com/blog/crumbs-3",
+                    "published": "Mon, 19 Aug 2019 18:27:06 GMT",
+                    "title": "crumbs!"
+                },
+                "https://www.math3ma.com/blog/the-borel-cantelli-lemma": {
+                    "link": "https://www.math3ma.com/blog/the-borel-cantelli-lemma",
+                    "published": "Fri, 14 Aug 2020 22:47:54 GMT",
+                    "title": "The Borel-Cantelli Lemma"
+                },
+                "https://www.math3ma.com/blog/a-non-measurable-set": {
+                    "link": "https://www.math3ma.com/blog/a-non-measurable-set",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "A Non-Measurable Set"
+                },
+                "https://www.math3ma.com/blog/a-nod-to-non-traditional-applied-math": {
+                    "link": "https://www.math3ma.com/blog/a-nod-to-non-traditional-applied-math",
+                    "published": "Tue, 29 Jun 2021 12:57:40 GMT",
+                    "title": "A Nod to Non-Traditional Applied Math"
+                },
+                "https://www.math3ma.com/blog/topological-magic-infinitely-many-primes": {
+                    "link": "https://www.math3ma.com/blog/topological-magic-infinitely-many-primes",
+                    "published": "Sun, 07 Oct 2018 19:33:16 GMT",
+                    "title": "Topological Magic: Infinitely Many Primes"
+                },
+                "https://www.math3ma.com/blog/topology-book": {
+                    "link": "https://www.math3ma.com/blog/topology-book",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "Topology: A Categorical Approach"
+                },
+                "https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams": {
+                    "link": "https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "Matrices as Tensor Network Diagrams"
+                },
+                "https://www.math3ma.com/blog/finitely-generated-modules-over-a-pid": {
+                    "link": "https://www.math3ma.com/blog/finitely-generated-modules-over-a-pid",
+                    "published": "Sat, 12 Dec 2020 01:35:30 GMT",
+                    "title": "Finitely Generated Modules Over a PID"
+                },
+                "https://www.math3ma.com/blog/snippets-of-mathematical-candor": {
+                    "link": "https://www.math3ma.com/blog/snippets-of-mathematical-candor",
+                    "published": "Fri, 07 Jun 2019 12:49:12 GMT",
+                    "title": "Snippets of Mathematical Candor"
+                },
+                "https://www.math3ma.com/blog/borel-cantelli-lemma-pictorially": {
+                    "link": "https://www.math3ma.com/blog/borel-cantelli-lemma-pictorially",
+                    "published": "Fri, 23 Nov 2018 19:15:55 GMT",
+                    "title": "Borel-Cantelli Lemma (Pictorially)"
+                },
+                "https://www.math3ma.com/blog/language-modeling-with-reduced-densities": {
+                    "link": "https://www.math3ma.com/blog/language-modeling-with-reduced-densities",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "Language Modeling with Reduced Densities"
+                },
+                "https://www.math3ma.com/blog/at-the-interface-of-algebra-and-statistics": {
+                    "link": "https://www.math3ma.com/blog/at-the-interface-of-algebra-and-statistics",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "At the Interface of Algebra and Statistics"
+                },
+                "https://www.math3ma.com/blog/warming-up-to-enriched-category-theory-part-2": {
+                    "link": "https://www.math3ma.com/blog/warming-up-to-enriched-category-theory-part-2",
+                    "published": "Thu, 17 Jun 2021 20:47:20 GMT",
+                    "title": "Warming Up to Enriched Category Theory, Part 2"
+                },
+                "https://www.math3ma.com/blog/the-pseudo-hyperbolic-metric-and-lindelofs-inequality": {
+                    "link": "https://www.math3ma.com/blog/the-pseudo-hyperbolic-metric-and-lindelofs-inequality",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "The Pseudo-Hyperbolic Metric and Lindelöf's Inequality"
+                },
+                "https://www.math3ma.com/blog/noetherian-rings-generalization-of-pids": {
+                    "link": "https://www.math3ma.com/blog/noetherian-rings-generalization-of-pids",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Noetherian Rings = Generalization of PIDs"
+                },
+                "https://www.math3ma.com/blog/the-fundamental-group-of-the-real-projective-plane": {
+                    "link": "https://www.math3ma.com/blog/the-fundamental-group-of-the-real-projective-plane",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "The Fundamental Group of the Real Projective Plane"
+                },
+                "https://www.math3ma.com/blog/what-is-an-adjunction-part-1": {
+                    "link": "https://www.math3ma.com/blog/what-is-an-adjunction-part-1",
+                    "published": "Tue, 29 Dec 2020 18:17:27 GMT",
+                    "title": "What is an Adjunction? Part 1 (Motivation)"
+                },
+                "https://www.math3ma.com/blog/rational-canonical-form-example-1": {
+                    "link": "https://www.math3ma.com/blog/rational-canonical-form-example-1",
+                    "published": "Fri, 27 Dec 2019 16:04:14 GMT",
+                    "title": "Rational Canonical Form: Example #1"
+                },
+                "https://www.math3ma.com/blog/open-sets-are-everything": {
+                    "link": "https://www.math3ma.com/blog/open-sets-are-everything",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Open Sets Are Everything"
+                },
+                "https://www.math3ma.com/blog/what-do-polygons-and-galois-theory-have-in-common": {
+                    "link": "https://www.math3ma.com/blog/what-do-polygons-and-galois-theory-have-in-common",
+                    "published": "Thu, 15 Oct 2020 12:17:14 GMT",
+                    "title": "What do Polygons and Galois Theory Have in Common?"
+                },
+                "https://www.math3ma.com/blog/lebesgue-but-not-borel": {
+                    "link": "https://www.math3ma.com/blog/lebesgue-but-not-borel",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "Lebesgue Measurable But Not Borel"
+                },
+                "https://www.math3ma.com/blog/crumbs-2": {
+                    "link": "https://www.math3ma.com/blog/crumbs-2",
+                    "published": "Tue, 11 Sep 2018 00:56:51 GMT",
+                    "title": "crumbs!"
+                }
+            },
+            "url": "http://www.math3ma.com/blog/rss.xml",
+            "last_update": "2021-09-01T20:01:13.606481Z",
+            "title": "Math3ma"
+        }
+    },
+    {
+        "updateTime": "2021-09-01T20:01:14.316186Z",
+        "name": "projects/carboncopy/databases/(default)/documents/rss_subscriptions/wwwwingologorgfeedatom",
+        "createTime": "2021-05-17T05:01:41.328868Z",
+        "fields": {
+            "entries": {
+                "https://wingolog.org/2021/04/08/sign-of-the-times": {
+                    "link": "https://wingolog.org/archives/2021/04/08/sign-of-the-times",
+                    "published": "2021-04-08T19:09:41Z",
+                    "title": "sign of the times"
+                },
+                "https://wingolog.org/2021/03/08/99-spam": {
+                    "link": "https://wingolog.org/archives/2021/03/08/99-spam",
+                    "published": "2021-03-08T14:36:22Z",
+                    "title": "99% spam"
+                },
+                "https://wingolog.org/2020/04/08/multi-value-webassembly-in-firefox-a-binary-interface": {
+                    "link": "https://wingolog.org/archives/2020/04/08/multi-value-webassembly-in-firefox-a-binary-interface",
+                    "published": "2020-04-08T09:02:18Z",
+                    "title": "multi-value webassembly in firefox: a binary interface"
+                },
+                "https://wingolog.org/2020/06/03/a-baseline-compiler-for-guile": {
+                    "link": "https://wingolog.org/archives/2020/06/03/a-baseline-compiler-for-guile",
+                    "published": "2020-06-03T20:39:36Z",
+                    "title": "a baseline compiler for guile"
+                },
+                "https://wingolog.org/2021/05/13/cross-module-inlining-in-guile": {
+                    "link": "https://wingolog.org/archives/2021/05/13/cross-module-inlining-in-guile",
+                    "published": "2021-05-13T11:25:03Z",
+                    "title": "cross-module inlining in guile"
+                },
+                "https://wingolog.org/2021/04/11/guiles-reader-in-guile": {
+                    "link": "https://wingolog.org/archives/2021/04/11/guiles-reader-in-guile",
+                    "published": "2021-04-11T19:51:32Z",
+                    "title": "guile's reader, in guile"
+                },
+                "https://wingolog.org/2020/10/15/on-binary-security-of-webassembly": {
+                    "link": "https://wingolog.org/archives/2020/10/15/on-binary-security-of-webassembly",
+                    "published": "2020-10-15T10:29:23Z",
+                    "title": "on \"binary security of webassembly\""
+                },
+                "https://wingolog.org/2020/04/14/understanding-webassembly-code-generation-throughput": {
+                    "link": "https://wingolog.org/archives/2020/04/14/understanding-webassembly-code-generation-throughput",
+                    "published": "2020-04-14T08:59:17Z",
+                    "title": "understanding webassembly code generation throughput"
+                },
+                "https://wingolog.org/2020/10/13/malloc-as-a-service": {
+                    "link": "https://wingolog.org/archives/2020/10/13/malloc-as-a-service",
+                    "published": "2020-10-13T13:34:38Z",
+                    "title": "malloc as a service"
+                },
+                "https://wingolog.org/2021/03/25/here-we-go-again": {
+                    "link": "https://wingolog.org/archives/2021/03/25/here-we-go-again",
+                    "published": "2021-03-25T12:22:14Z",
+                    "title": "here we go again"
+                }
+            },
+            "url": "https://www.wingolog.org/feed/atom",
+            "last_update": "2021-09-01T20:01:14.205405Z",
+            "title": "wingolog"
         }
     }
 ]

@@ -31,8 +31,8 @@ realTest :: IO ()
 realTest = do
   env <- defaultEnvironment
   runFireStore env "carboncopy" $ do
-    -- docs <- listAllDocuments "rss_subscriptions"
-    (docs, _) <- listDocumentsOnePage "rss_subscriptions" Nothing -- :: IO (Result ([BotUser], Maybe NextPage))
+    docs <- listAllDocuments "rss_subscriptions"
+    -- (docs, _) <- listDocumentsOnePage "rss_subscriptions" Nothing -- :: IO (Result ([BotUser], Maybe NextPage))
     liftIO $ do
       print "---"
       BS.putStrLn $ encodePretty $ head docs
@@ -66,13 +66,13 @@ prop_roundtrip_value' v = buildValue (parseValue v) == v
 main :: IO ()
 main =
   do
-    print "1"
-    print $ parseValue $ FireStore.value
-    print "2"
+    -- print "1"
+    -- print $ parseValue $ FireStore.value
+    -- print "2"
 
     -- print $ Array [Map (HM.fromList [("", GeoPoint 0.0 0.0)])]
     -- print $ parseValue . buildValue $ Array [Map (HM.fromList [("", GeoPoint 0.0 0.0)])]
-    -- quickCheck $ prop_roundtrip_value
+    quickCheck $ prop_roundtrip_value
     realTest
 
 -- quickCheck $ prop_roundtrip_value'
