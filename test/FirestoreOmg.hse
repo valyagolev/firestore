@@ -1,0 +1,200 @@
+{-# LANGUAGE DataKinds #-}
+{-# LANGUAGE DuplicateRecordFields #-}
+
+module Database.FirestoreOmg where
+
+import Control.Applicative (Applicative (liftA2))
+import Control.Exception (SomeException (SomeException), try)
+import Control.Lens
+import Control.Monad.Trans.Resource (runResourceT)
+import Data.Aeson
+  ( FromJSON (parseJSON),
+    Options (fieldLabelModifier),
+    Result,
+    ToJSON (toEncoding, toJSON),
+    Value (..),
+    camelTo2,
+    defaultOptions,
+    fromJSON,
+    genericParseJSON,
+    genericToEncoding,
+  )
+import Data.Aeson.Lens
+import Data.Aeson.Types (FromJSON)
+import Data.Foldable (msum)
+import qualified Data.HashMap.Strict as HM
+import Data.Maybe (fromMaybe)
+import Data.Scientific (toRealFloat)
+import Data.Text (Text, takeWhileEnd)
+import qualified Data.Text as Text
+import Data.Vector (fromList)
+import qualified Data.Vector as V
+import Debug.Trace (trace, traceShow, traceShowId)
+import GHC.Generics
+import Network.Google
+import qualified Network.Google as FireStore
+import qualified Network.Google as Google
+import qualified Network.Google.FireStore as FireStore
+import Network.HTTP.Types.Status
+import System.IO (stderr)
+
+underscoredToCamel :: [Char] -> String
+underscoredToCamel ('_' : s) = camelTo2 '_' s
+underscoredToCamel s = camelTo2 '_' s
+
+fireBaseJSONOptions :: Options
+fireBaseJSONOptions =
+  defaultOptions
+    { fieldLabelModifier = underscoredToCamel
+    }
+
+data BotUser = BotUser
+  { __id :: String,
+    _id :: Integer,
+    _firstName :: String
+  }
+  deriving (Generic, Show)
+
+instance ToJSON BotUser where
+  toEncoding = genericToEncoding fireBaseJSONOptions
+
+instance FromJSON BotUser where
+  parseJSON = genericParseJSON fireBaseJSONOptions
+
+data RssSubscription = RssSubscription
+  { __id :: String,
+    _title :: String,
+    _url :: String
+  }
+  deriving (Generic, Show)
+
+instance ToJSON RssSubscription where
+  toEncoding = genericToEncoding fireBaseJSONOptions
+
+instance FromJSON RssSubscription where
+  parseJSON = genericParseJSON fireBaseJSONOptions
+
+data Stock = Stock
+  { __id :: String,
+    _tiTle :: String,
+    _priceHistoryCents :: HM.HashMap String Integer
+  }
+  deriving (Generic, Show)
+
+instance ToJSON Stock where
+  toEncoding = genericToEncoding fireBaseJSONOptions
+
+instance FromJSON Stock where
+  parseJSON = genericParseJSON fireBaseJSONOptions
+
+newtype FireStoreJSON = FireStoreJSON FireStore.Value
+  deriving (Show)
+
+instance ToJSON FireStoreJSON where
+  toJSON (FireStoreJSON v) =
+    fromMaybe ("unknown firestore type") $
+      msum
+        [ toJSON <$> v ^. FireStore.vGeoPointValue,
+          -- toJSON <$> v ^. FireStore.vBytesValue,
+          toJSON <$> v ^. FireStore.vIntegerValue,
+          toJSON <$> v ^. FireStore.vTimestampValue,
+          toJSON <$> v ^. FireStore.vDoubleValue,
+          toJSON <$> v ^. FireStore.vStringValue,
+          toJSON <$> v ^. FireStore.vBooleanValue,
+          toJSON <$> v ^. FireStore.vMapValue,
+          toJSON <$> v ^. FireStore.vArrayValue,
+          toJSON <$> v ^. FireStore.vReferenceValue,
+          toJSON <$> v ^. FireStore.vNullValue
+        ]
+
+pathToName :: Text -> Text
+pathToName = takeWhileEnd (/= '/')
+
+valueWith :: Lens' FireStore.Value (Maybe a) -> a -> FireStore.Value
+valueWith l v = FireStore.value & l ?~ v
+
+convertValues :: FromJSON a => FireStore.Document -> Result a
+convertValues d =
+  d ^. FireStore.dFields . _Just . FireStore.dfAddtional
+    & HM.insert "_id" (FireStore.value & FireStore.vStringValue .~ fmap pathToName (d ^. FireStore.dName))
+    & fmap FireStoreJSON
+    & toJSON
+    & fromJSON
+
+toFields :: [(Text, Value)] -> FireStore.DocumentFields
+toFields xs = FireStore.documentFields $ fmap toField $ HM.fromList $ map (\(k, v) -> (Text.pack $ underscoredToCamel $ Text.unpack k, v)) $ filter ((/= "__id") . fst) xs
+
+toField :: Value -> FireStore.Value
+toField (Object hm) = valueWith FireStore.vMapValue $ FireStore.mapValue & FireStore.mvFields ?~ FireStore.mapValueFields (fmap toField hm)
+toField (Array vec) = valueWith FireStore.vArrayValue $ FireStore.arrayValue & FireStore.avValues .~ (map toField $ V.toList vec)
+toField (String txt) = valueWith FireStore.vStringValue txt
+toField (Number sci) = valueWith FireStore.vDoubleValue $ toRealFloat sci
+toField (Bool b) = valueWith FireStore.vBooleanValue b
+toField Null = valueWith FireStore.vNullValue FireStore.NullValue
+
+toDocument :: ToJSON a => a -> FireStore.Document
+toDocument v =
+  let jsv = toJSON v
+   in FireStore.document
+        -- & (FireStore.dName ?~ jsv ^. key "__id" . _String)
+        & (FireStore.dFields ?~ toFields (jsv ^@.. members))
+
+newtype PageToken = PageToken {_unPageToken :: Text}
+  deriving (Show)
+
+listDocuments :: FromJSON a => FireStoreEnv -> Text -> Maybe PageToken -> IO (Result [a], Maybe PageToken)
+listDocuments env collectionName np = do
+  res <-
+    FireStore.projectsDatabasesDocumentsList
+      ("projects/carboncopy/databases/(default)/documents/" <> collectionName)
+      ""
+      & FireStore.pPageToken .~ fmap _unPageToken np
+      & runResourceT . Google.runGoogle env . Google.send
+
+  return (mapM convertValues $ res ^. FireStore.ldrDocuments, PageToken <$> res ^. FireStore.ldrNextPageToken)
+
+listAllDocuments :: forall a. (Show a, FromJSON a) => FireStoreEnv -> Text -> Maybe PageToken -> IO (Result [a])
+listAllDocuments env collectionName pt = do
+  (res, np) <- listDocuments env collectionName pt
+  print "?"
+  print res
+
+  case np of
+    Nothing -> return res
+    Just pt' -> liftA2 (++) res <$> listAllDocuments env collectionName (Just pt')
+
+data OperationResult a = Success a | ErrorAlreadyExists | OtherError Google.ServiceError
+  deriving (Show)
+
+createDocument :: ToJSON a => FireStoreEnv -> Text -> a -> IO (OperationResult FireStore.Document)
+createDocument env collection object = do
+  res <-
+    FireStore.projectsDatabasesDocumentsCreateDocument
+      "projects/carboncopy/databases/(default)/documents"
+      collection
+      (toDocument object)
+      & FireStore.pddcdDocumentId ?~ toJSON object ^. key "__id" . _String
+      -- & FireStore.pPageToken .~ fmap _unPageToken np
+      & Google.send
+      & Google.runGoogle env
+      & runResourceT
+      & Google.trying Google._ServiceError
+
+  return $ case res of
+    Left ServiceError' {_serviceStatus = Status {statusCode = 409, statusMessage = "Conflict"}} -> ErrorAlreadyExists
+    Left serviceError -> OtherError serviceError
+    Right doc -> Success doc
+
+test = do
+  print $ toDocument $ Stock "wtf?" "hi" (HM.fromList [("a", 21213), ("bb", 312321)])
+  -- print $ (convertValues (toDocument (Stock "wtf?" "hi")) :: Result Stock)
+  e <- initEnv
+  -- r <- listAllDocuments @Stock e "stocks" Nothing
+  -- print r
+  r <- createDocument e "stocks" (Stock "wtf?3" "hi" (HM.fromList [("a", 21213), ("bb", 312321)]))
+  print r
+  -- r <- listDocuments e "telegram_bot_users" :: IO (Result ([BotUser], Maybe NextPage))
+  -- print r
+  -- r <- listAllDocuments e forall a. "rss_subscriptions" Nothing :: IO (Result [RssSubscription])
+  -- print r
+  return ()
