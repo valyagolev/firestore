@@ -12,7 +12,8 @@ import qualified Data.HashMap.Internal.Strict as HM
 import qualified Data.HashMap.Strict as HS
 import Data.Text (Text)
 import Database.Firestore
-import Debug.Trace (trace, traceId)
+import Database.Firestore.Internal
+import Debug.Trace (trace, traceId, traceShowId)
 import GHC.Generics (Generic)
 import Generic.Random
 import qualified Network.Google.FireStore.Types as FireStore
@@ -49,17 +50,11 @@ realTest = do
 --   shrink = genericShrink
 
 instance Arbitrary Value where
-  arbitrary = genericArbitraryRec uniform
+  -- fixme
+  arbitrary = sized $ genericArbitraryRec uniform `withBaseCase` (String <$> arbitrary)
   shrink = genericShrink
 
-prop_roundtrip_value v = parseValue (buildValue v) == v
-
--- withTimeout :: Show a => a -> a
--- withTimeout a =
---   unsafePerformIO $
---     timeout 1000000 (a `seq` return a) >>= \case
---       Just a -> return a
---       Nothing -> error $ "bad!\n" ++ (show a) ++ "\n\n"
+prop_roundtrip_value v = parseValue (buildValue $ traceShowId v) == v
 
 prop_roundtrip_value' v = buildValue (parseValue v) == v
 
