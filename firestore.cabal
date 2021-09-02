@@ -6,11 +6,11 @@ cabal-version: 1.12
 
 name:           firestore
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/stonks#readme>
-homepage:       https://github.com/githubuser/firestore#readme
-bug-reports:    https://github.com/githubuser/firestore/issues
-author:         Author name here
-maintainer:     example@example.com
+description:    This is an arguably convenient wrapper around `Network.Google.FireStore`. This is likely not the idiomatic or best API for Google Firestore\/Datastore\/Firebase. I don't even understand the difference between all of those trademarks. Bug reports and suggestions are welcome. <https://github.com/valyagolev/firestore>
+homepage:       https://github.com/valyagolev/firestore#readme
+bug-reports:    https://github.com/valyagolev/firestore/issues
+author:         Valentin Golev
+maintainer:     v.golev@gmail.com
 copyright:      2021 Author name here
 license:        BSD3
 license-file:   LICENSE
@@ -20,11 +20,13 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/firestore
+  location: https://github.com/valyagolev/firestore
 
 library
   exposed-modules:
-      Database.Firestore.Direct
+      Database.Firestore
+      Database.Firestore.Internal
+      Database.Firestore.Types
   other-modules:
       Paths_firestore
   hs-source-dirs:
@@ -67,21 +69,17 @@ library
       OverloadedStrings
       LambdaCase
       RecordWildCards
+  ghc-options: -fwarn-unused-imports
   build-depends:
-      QuickCheck
-    , aeson
-    , aeson-pretty
+      aeson
     , base >=4.7 && <5
     , bytestring
-    , generic-random
     , gogol
     , gogol-firestore
     , http-types
     , lens
     , lens-aeson
-    , quickcheck-instances
     , resourcet
-    , scientific
     , text
     , time
     , unordered-containers
@@ -133,7 +131,7 @@ test-suite firestore-test
       OverloadedStrings
       LambdaCase
       RecordWildCards
-  ghc-options: -threaded -rtsopts -with-rtsopts=-N
+  ghc-options: -fwarn-unused-imports -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       QuickCheck
     , aeson
@@ -149,7 +147,6 @@ test-suite firestore-test
     , lens-aeson
     , quickcheck-instances
     , resourcet
-    , scientific
     , text
     , time
     , unordered-containers

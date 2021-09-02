@@ -11,7 +11,7 @@ import qualified Data.ByteString.Lazy.Char8 as BS
 import qualified Data.HashMap.Internal.Strict as HM
 import qualified Data.HashMap.Strict as HS
 import Data.Text (Text)
-import Database.Firestore.Direct
+import Database.Firestore
 import Debug.Trace (trace, traceId)
 import GHC.Generics (Generic)
 import Generic.Random
