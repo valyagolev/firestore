@@ -6,12 +6,14 @@ cabal-version: 1.12
 
 name:           firestore
 version:        0.1.0.0
-description:    This is an arguably convenient wrapper around `Network.Google.FireStore`. This is likely not the idiomatic or best API for Google Firestore\/Datastore\/Firebase. I don't even understand the difference between all of those trademarks. Bug reports and suggestions are welcome. <https://github.com/valyagolev/firestore>
+synopsis:       Wrapper for Google Firestore/Datastore API
+description:    This is an arguably convenient wrapper around gogols `Network.Google.FireStore`. This is likely not the idiomatic or best API for Google Firestore/Datastore/Firebase. I don't even understand the difference between all of those trademarks. Bug reports and suggestions are welcome. <https://github.com/valyagolev/firestore>
+category:       Database
 homepage:       https://github.com/valyagolev/firestore#readme
 bug-reports:    https://github.com/valyagolev/firestore/issues
 author:         Valentin Golev
 maintainer:     v.golev@gmail.com
-copyright:      2021 Author name here
+copyright:      2021 Valentin Golev
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple

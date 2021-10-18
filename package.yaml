@@ -4,7 +4,9 @@ github:              "valyagolev/firestore"
 license:             BSD3
 author:              "Valentin Golev"
 maintainer:          "v.golev@gmail.com"
-copyright:           "2021 Author name here"
+copyright:           "2021 Valentin Golev"
+category:            Database
+synopsis:            Wrapper for Google Firestore/Datastore API
 
 extra-source-files:
 - README.md
@@ -17,7 +19,20 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:          This is an arguably convenient wrapper around `Network.Google.FireStore`. This is likely not the idiomatic or best API for Google Firestore\/Datastore\/Firebase. I don't even understand the difference between all of those trademarks. Bug reports and suggestions are welcome. <https://github.com/valyagolev/firestore>
+description:          "This is an arguably convenient wrapper around gogols `Network.Google.FireStore`. This is likely not the idiomatic or best API for Google Firestore\/Datastore\/Firebase. I don't even understand the difference between all of those trademarks. Bug reports and suggestions are welcome. <https://github.com/valyagolev/firestore>"
+
+# aeson                         >= 1.5.6 && < 1.6,
+# bytestring                    >= 0.10.12 && < 0.11,
+# text                          >= 1.2.4 && < 1.3,
+# time                          >= 1.9.3 && < 1.10,
+# unordered-containers          >= 0.2.14 && < 0.3,
+# vector                        >= 0.12.3 && < 0.13,
+# gogol                         >= 0.5.0 && < 0.6,
+# resourcet                     >= 1.2.4 && < 1.3,
+# http-types                    >= 0.12.3 && < 0.13,
+# lens                          >= 5.0.1 && < 5.1,
+# gogol-firestore               >= 0.5.0 && < 0.6,
+# lens-aeson                    >= 1.1.2 && < 1.2,
 
 dependencies:
 - base >= 4.7 && < 5

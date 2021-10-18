@@ -1,7 +1,7 @@
 {-# LANGUAGE DataKinds #-}
 {-# LANGUAGE TypeFamilies #-}
 
--- | This is an arguably convenient wrapper around `Network.Google.FireStore`. This is likely not the idiomatic or best API for Google Firestore\/Datastore\/Firebase. I don't even understand the difference between all of those trademarks. Bug reports and suggestions are welcome.
+-- | This is an arguably convenient wrapper around gogol's `Network.Google.FireStore`. This is likely not the idiomatic or best API for Google Firestore\/Datastore\/Firebase. I don't even understand the difference between all of those trademarks. Bug reports and suggestions are welcome.
 module Database.Firestore
   ( -- * The types
     Document (..),
