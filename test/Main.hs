@@ -13,7 +13,7 @@ import qualified Data.HashMap.Strict as HS
 import Data.Text (Text)
 import Database.Firestore
 import Database.Firestore.Internal
-import Debug.Trace (trace, traceId, traceShowId)
+import Debug.Trace (trace, traceId, traceShow, traceShowId)
 import GHC.Generics (Generic)
 import Generic.Random
 import qualified Network.Google.FireStore.Types as FireStore
@@ -51,10 +51,10 @@ realTest = do
 
 instance Arbitrary Value where
   -- fixme
-  arbitrary = sized $ genericArbitraryRec uniform `withBaseCase` (String <$> arbitrary)
+  arbitrary = genericArbitraryRec uniform `withBaseCase` (String <$> arbitrary)
   shrink = genericShrink
 
-prop_roundtrip_value v = parseValue (buildValue $ traceShowId v) == v
+prop_roundtrip_value v = parseValue (buildValue v) == v
 
 prop_roundtrip_value' v = buildValue (parseValue v) == v
 
@@ -67,7 +67,7 @@ main =
 
     -- print $ Array [Map (HM.fromList [("", GeoPoint 0.0 0.0)])]
     -- print $ parseValue . buildValue $ Array [Map (HM.fromList [("", GeoPoint 0.0 0.0)])]
-    quickCheck $ prop_roundtrip_value
+    quickCheckWith (stdArgs {maxSize = 10}) $ prop_roundtrip_value
     realTest
 
 -- quickCheck $ prop_roundtrip_value'
