@@ -1,2 +1,7 @@
 cradle:
   stack:
+    - path: "src"
+      component: "lib:firestore"
+
+    - path: "test"
+      component: "firestore:test:firestore-test"
