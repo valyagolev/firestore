@@ -5,7 +5,7 @@ license:             BSD3
 author:              "Valentin Golev"
 maintainer:          "v.golev@gmail.com"
 copyright:           "2021 Valentin Golev"
-category:            Database
+category:            Database, Google
 synopsis:            Wrapper for Google Firestore/Datastore API
 
 extra-source-files:

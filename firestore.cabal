@@ -8,7 +8,7 @@ name:           firestore
 version:        0.1.0.0
 synopsis:       Wrapper for Google Firestore/Datastore API
 description:    This is an arguably convenient wrapper around gogols `Network.Google.FireStore`. This is likely not the idiomatic or best API for Google Firestore/Datastore/Firebase. I don't even understand the difference between all of those trademarks. Bug reports and suggestions are welcome. <https://github.com/valyagolev/firestore>
-category:       Database
+category:       Database, Google
 homepage:       https://github.com/valyagolev/firestore#readme
 bug-reports:    https://github.com/valyagolev/firestore/issues
 author:         Valentin Golev
