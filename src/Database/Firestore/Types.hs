@@ -12,6 +12,7 @@ module Database.Firestore.Types where
 
 import Control.Lens (makePrisms)
 import Control.Monad.IO.Class (MonadIO (liftIO))
+import Control.Monad.IO.Unlift (MonadUnliftIO (withRunInIO))
 import Data.Aeson (ToJSON (..))
 import qualified Data.ByteString as BS
 import qualified Data.HashMap.Strict as HM
@@ -31,6 +32,10 @@ data Document = Document
     fields :: HM.HashMap Text Value
   }
   deriving (Show, Eq, Generic)
+
+-- | Handy way to make a document
+formDocument :: Maybe Text -> [(Text, Value)] -> Document
+formDocument name vals = Document name Nothing Nothing $ HM.fromList vals
 
 data Value
   = GeoPoint Double Double
@@ -68,7 +73,7 @@ instance ToJSON Document
 
 -- | This is just a convenience monad that allows one to avoid all the gogol machinery.
 newtype FireStore a = FireStore
-  { _action :: Text -> forall m s. (Monad m, MonadGoogle s m, Google.HasScope' s FireStoreScope ~ True) => m a
+  { _action :: Text -> forall m s. (Monad m, MonadUnliftIO m, MonadGoogle s m, Google.HasScope' s FireStoreScope ~ True) => m a
   }
   deriving (Functor)
 
@@ -84,6 +89,9 @@ instance Monad FireStore where
 
 instance MonadIO FireStore where
   liftIO a = FireStore $ const (liftIO a)
+
+instance MonadUnliftIO FireStore where
+  withRunInIO inner = FireStore $ \name -> withRunInIO $ \run -> inner (run . ($ name) . _action)
 
 newtype PageToken = PageToken {_unPageToken :: Text}
   deriving (Show)
