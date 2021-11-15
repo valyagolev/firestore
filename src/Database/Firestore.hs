@@ -5,6 +5,7 @@
 module Database.Firestore
   ( -- * The types
     Document (..),
+    formDocument,
     Value (..),
     FireStore,
 
@@ -15,6 +16,7 @@ module Database.Firestore
     -- * CRUD
     listAllDocuments,
     patchDocument,
+    getDocument,
 
     -- * Other stuff
 
@@ -23,10 +25,11 @@ module Database.Firestore
   )
 where
 
-import Control.Lens ((&), (.~), (<&>), (^.))
+import Control.Lens (filtered, (&), (.~), (<&>), (^.))
 import Control.Monad.Trans.Resource
 -- import Data.Aeson
 import Data.Data
+import qualified Data.HashMap.Strict as HM
 import qualified Data.Text as Text
 import Database.Firestore.Internal
 import Database.Firestore.Types
@@ -34,6 +37,7 @@ import Network.Google (AllowScopes, HasEnv)
 import qualified Network.Google as Google
 import qualified Network.Google.Auth.Scope as Google
 import qualified Network.Google.FireStore as FireStore
+import Network.HTTP.Types.Status (Status (Status, statusCode))
 import System.IO (stderr)
 
 -- | This initializes the the google environment with stderr logging, tls manager, and "application default" credentials. (@gcloud auth login@ on your local machine, or maybe @gcloud auth application-default login@, and it will also probably "just work" with the relevant service account (e.g. "compute") in the cloud). It will only have the scopes needed for FireStore (`FireStoreScope`).
@@ -45,7 +49,7 @@ import System.IO (stderr)
 -- >   result <- runFireStore env "myproject" someFireStoreAction
 defaultEnvironment :: IO (Google.Env FireStoreScope)
 defaultEnvironment = do
-  lgr <- Google.newLogger Google.Trace stderr
+  lgr <- Google.newLogger Google.Info stderr
   mgr <- Google.newManager Google.tlsManagerSettings
   crd <- Google.getApplicationDefault mgr
   Google.newEnvWith crd lgr mgr <&> (Google.envScopes .~ Proxy @FireStoreScope)
@@ -90,15 +94,33 @@ listAllDocuments collectionName = getPage Nothing
           Nothing -> return res
           Just pt' -> (res ++) <$> getPage (Just pt')
 
+getDocument :: Text.Text -> Text.Text -> FireStore (Maybe Document)
+getDocument collectionName name = do
+  res <-
+    ( FireStore $
+        \projectName ->
+          FireStore.projectsDatabasesDocumentsGet ("projects/" <> projectName <> "/databases/(default)/documents/" <> collectionName <> "/" <> name)
+            & Google.send
+            & Google.trying (Google._ServiceError . filtered (\Google.ServiceError' {Google._serviceStatus = Status {statusCode}} -> statusCode == 404))
+    ) ::
+      FireStore (Either Google.ServiceError FireStore.Document)
+
+  let resM = either (const Nothing) Just res
+
+  return $ parseDocument <$> resM
+
+-- | This sets the fields that the passed Document contains, but won't change the already existing fields
+-- that are not present in the passed Document.
 patchDocument :: Text.Text -> Document -> FireStore Document
--- patchDocument (Document {name = Nothing}) = error "Can't patch a"
-patchDocument path document =
+patchDocument _ (Document {name = Nothing}) = error "Can't patch a document without a name"
+patchDocument collectionName document@Document {name = Just name} =
   do
     res <- FireStore $
       \projectName ->
         FireStore.projectsDatabasesDocumentsPatch
           (buildDocument document)
-          ("projects/" <> projectName <> "/databases/(default)/documents/" <> path)
+          ("projects/" <> projectName <> "/databases/(default)/documents/" <> collectionName <> "/" <> name)
+          & FireStore.pddpUpdateMaskFieldPaths .~ (HM.keys $ fields document)
           & Google.send
 
     return $ parseDocument res
